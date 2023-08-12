@@ -1,0 +1,25 @@
+.input:focus-visible {
+  border: none;
+  outline: none;
+}
+.search-box {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.search-box input {
+  width: 200px;
+}
+.search-box,
+.search-box input {
+  transition: width 0.4s ease-in-out;
+  background-color: var(--color3);
+}
+.search-box input:focus {
+  width: 250px;
+  transition: width 0.4s ease-in-out;
+}
+
+.search-box:hover,
+input:focus .search-box {
+  color: #146ef6;
+}

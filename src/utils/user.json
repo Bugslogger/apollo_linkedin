@@ -1,0 +1,409 @@
+{
+  "companyId": "76526135",
+  "companyLocation": "London, England, United Kingdom",
+  "companyName": "Zien",
+  "companyUrl": "https://www.linkedin.com/sales/company/76526135",
+  "connectionDegree": "3rd",
+  "date": "2023-07-26T11:15:20.322Z",
+  "durationInCompany": "1 year 9 months in company",
+  "durationInRole": "1 year 9 months in role",
+  "firstName": "Zoe",
+  "fullName": "Zoe Nolan",
+  "industry": "Media Production",
+  "isOpenLink": true,
+  "isPremium": false,
+  "keyword": "ai engineer",
+  "lastName": "Nolan",
+  "linkedInProfileUrl": "https://www.linkedin.com/in/ACwAAAJPolgBfBW_SWsldPA1eReFRuGZ1KZyXlk/",
+  "location": "Nottingham, England, United Kingdom",
+  "name": "Zoe Nolan",
+  "pastExperienceCompanyName": "Global Parametrics",
+  "pastExperienceCompanyTitle": "Senior Software Engineer",
+  "pastExperienceCompanyUrl": "https://www.linkedin.com/sales/company/16251213",
+  "pastExperienceDate": "2020 - 2021",
+  "pastExperienceDuration": "10 months",
+  "profileImageUrl": "https://media.licdn.com/dms/image/C4D03AQF2BCvD0wDV8Q/profile-displayphoto-shrink_800_800/0/1553128821603?e=1695859200&v=beta&t=qpdcsoi_e5lcsw_Vv3urUWxpeANwjtlsanHnbHF4W4o",
+  "profileUrl": "https://www.linkedin.com/sales/lead/ACwAAAJPolgBfBW_SWsldPA1eReFRuGZ1KZyXlk,NAME_SEARCH,lfJy",
+  "query": "https://www.linkedin.com/sales/search/people?query=(spellCorrectionEnabled%3Atrue%2CrecentSearchParam%3A(id%3A2942427516%2CdoLogHistory%3Atrue)%2Cfilters%3AList((type%3AREGION%2Cvalues%3AList((id%3A101165590%2Ctext%3AUnited%2520Kingdom%2CselectionType%3AINCLUDED))))%2Ckeywords%3AAI%2520Engineer)&sessionId=A1lFfv3zTQ2ROeFxRuwfsA%3D%3D",
+  "regularCompanyUrl": "https://www.linkedin.com/company/76526135",
+  "sharedConnectionsCount": 0,
+  "summary": "I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and Blockchain development. My prior work includes wholesale banking settlement platforms at Clearmatics, building web scale messaging platforms at Skype and development of real-time video encoders, GPU architecture, and game engines.  \n\nMy career has included experience in architecting and building new products,  designing and promoting adoption of development processes, leading Scrum teams, building teams, and representing my employers through public speaking and community involvement.\n\nIn addition to my experience, I hold an MSc in Computer Graphics & Virtual Environments and a BSc in Software Engineering from The University of Hull. I am a Certified Scrum Master and have taken several courses and programs with Open University, Coursera, and FutureLearn. I’m also an Organising Team Member for Rails Girls London and a Mentor for She(256), an organisation dedicated to diversity in Blockchain.",
+  "timestamp": "2023-07-26T11:15:20.322Z",
+  "title": "Chief Technology Officer",
+  "titleDescription": "Zien is a commissioning platform that collaborates with the world's most original artists to produce NFTs with redeemable physical artwork. Hands-on bootstrapping the chatbot and NFT platforms\n\n• Developed a scalable Natural Language Processing (NLP) chatbot platform using TypeScript. Initially integrated the platform with WhatsApp and later expanded its functionality to include support for Telegram.\n• Utilising a hybrid approach, combining a rules-based system to handle specific details and an LLM to provide general knowledge and conversational capabilities. \n• Integrated the chatbot platform with external APIs allowing the bot to perform tasks on the user's behalf.\n• Constructed an NFT platform on the Ethereum blockchain in Solidity, Hardhat, and TypeScript. The platform enables the trading and ownership of digital assets with a physical component. \n• Coordinating and overseeing external contractors. Ensured effective communication, task delegation, and timely delivery of contracted work.",
+  "vmid": "ACwAAAJPolgBfBW_SWsldPA1eReFRuGZ1KZyXlk",
+  "personInfo": {
+    "_id": "https://media.licdn.com/dms/image/C4D03AQF2BCvD0wDV8Q/profile-displayphoto-shrink_800_800/0/1553128821603?e=1695859200&v=beta&t=qpdcsoi_e5lcsw_Vv3urUWxpeANwjtlsanHnbHF4W4o",
+    "allSkills": "Recruiting, Big Data, Cross-Functional Team Management, Software Development Life Cycle (SDLC), Stakeholder Management, Process Improvement & Optimisation, Technical Documentation, Security & Risk Management, IT Strategy, Business Analysis, ChatGPT, Large Language Models (LLM), Prompt Engineering, JavaScript, Natural Language Processing (NLP), Chatbots, Agile Methodologies, Software Engineering, Project Management, Agile, Scrum, Distributed Systems, Software Project Management, Algorithms, blockchain, ethereum, Linux, Git, Python, Solidity, REST API, Open Source Software, Ethereum, Representational State Transfer (REST), Smart Contracts, GitHub, Web3",
+    "details": {
+      "linkedinProfile": "https://www.linkedin.com/in/zoenolan",
+      "websites": "zoenolan.org/",
+      "twitter": "zoe_nolan",
+      "twitterProfileUrl": "https://twitter.com/zoe_nolan",
+      "connectedOn": "",
+      "companyWebsite": "https://zien.io/",
+      "mailFromDropcontact": "zoe@zien.io"
+    },
+    "dropcontact": {
+      "email": "zoe@zien.io",
+      "qualification": "nominative@pro",
+      "civility": "Mrs",
+      "company": "Zien",
+      "first_name": "Zoe",
+      "full_name": "Zoe Nolan",
+      "last_name": "Nolan",
+      "website": "www.zien.io"
+    },
+    "general": {
+      "imgUrl": "https://media.licdn.com/dms/image/C4D03AQF2BCvD0wDV8Q/profile-displayphoto-shrink_800_800/0/1553128821603?e=1695859200&v=beta&t=qpdcsoi_e5lcsw_Vv3urUWxpeANwjtlsanHnbHF4W4o",
+      "fullName": "Zoe Nolan",
+      "headline": "Software Engineering",
+      "location": "Nottingham, England, United Kingdom",
+      "profileUrl": "https://www.linkedin.com/in/zoenolan/",
+      "connections": "500+",
+      "connectionsCount": 645,
+      "connectionDegree": "3rd",
+      "description": "I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and Blockchain development. My prior work includes wholesale banking settlement platforms at Clearmatics, building web scale messaging platforms at Skype and development of real-time video encoders, GPU architecture, and game engines.  \n\nMy career has included experience in architecting and building new products,  designing and promoting adoption of development processes, leading Scrum teams, building teams, and representing my employers through public speaking and community involvement.\n\nIn addition to my experience, I hold an MSc in Computer Graphics & Virtual Environments and a BSc in Software Engineering from The University of Hull. I am a Certified Scrum Master and have taken several courses and programs with Open University, Coursera, and FutureLearn. I’m also an Organising Team Member for Rails Girls London and a Mentor for She(256), an organisation dedicated to diversity in Blockchain.",
+      "subscribers": 683,
+      "firstName": "Zoe",
+      "lastName": "Nolan",
+      "userId": "38773336",
+      "backgroundUrl": "https://media.licdn.com/dms/image/D4E16AQEYvkU6Be-ObA/profile-displaybackgroundimage-shrink_350_1400/0/1685784535070?e=1695859200&v=beta&t=aTceyxErtW3BWuNjvWwIcwn3Zbc_MgsdTMP3IgFpMHI",
+      "vmid": "ACoAAAJPolgBwryME9fTea7xXasXSaG0OB3rgkg",
+      "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAJPolgBwryME9fTea7xXasXSaG0OB3rgkg,name",
+      "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAJPolgBwryME9fTea7xXasXSaG0OB3rgkg%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+      "connectionsUrl": "https://www.linkedin.com/search/results/people/?facetConnectionOf=%5B%22ACoAAAJPolgBwryME9fTea7xXasXSaG0OB3rgkg%22%5D&facetNetwork=%5B%22F%22%2C%22S%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH",
+      "company": "Zien",
+      "school": "University of Hull"
+    },
+    "jobs": [
+      {
+        "companyUrl": "https://www.linkedin.com/company/76526135/",
+        "companyName": "Zien",
+        "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQF5yoR056xOWg/company-logo_400_400/0/1665565429482?e=1698278400&v=beta&t=cAG3gdItA40GHEqMcXSpFSW3cU4e_tPhrzWJBqJiz_8",
+        "jobTitle": "Chief Technology Officer",
+        "dateRange": "Nov 2021 - Present",
+        "duration": "1 yr 9 mos",
+        "description": "Zien is a commissioning platform that collaborates with the world's most original artists to produce NFTs with redeemable physical artwork. Hands-on bootstrapping the chatbot and NFT platforms\n\n• Developed a scalable Natural Language Processing (NLP) chatbot platform using TypeScript. Initially integrated the platform with WhatsApp and later expanded its functionality to include support for Telegram.\n• Utilising a hybrid approach, combining a rules-based system to handle specific details and an LLM to provide general knowledge and conversational capabilities. \n• Integrated the chatbot platform with external APIs allowing the bot to perform tasks on the user's behalf.\n• Constructed an NFT platform on the Ethereum blockchain in Solidity, Hardhat, and TypeScript. The platform enables the trading and ownership of digital assets with a physical component. \n• Coordinating and overseeing external contractors. Ensured effective communication, task delegation, and timely delivery of contracted work.",
+        "location": "London, England, United Kingdom · Remote",
+        "durationInCompanyByMonth": 21
+      },
+      {
+        "companyUrl": "https://www.linkedin.com/company/2163772/",
+        "companyName": "Cerebriam Studio",
+        "logoUrl": "https://media.licdn.com/dms/image/C560BAQE4Yxc6144yXg/company-logo_400_400/0/1575389899825?e=1698278400&v=beta&t=YtX0cNgT5HPJbzXaS3lsOhE8LJHYtigVm6y4gClkaTI",
+        "jobTitle": "Advisor",
+        "dateRange": "Nov 2022 - Present",
+        "duration": "9 mos",
+        "description": "Cerebriam Studio online video content creator leverages AI to automate quality video production for busy content creators\n\nI advise the CEO on Strategic Planning, Product and Market Validation, Risk Management with a focus on software development.",
+        "location": "London, England, United Kingdom · Remote",
+        "durationInCompanyByMonth": 9
+      },
+      {
+        "companyUrl": "https://www.linkedin.com/company/37012937/",
+        "companyName": "Swarm",
+        "logoUrl": "https://media.licdn.com/dms/image/C560BAQEjx7FCtPYiTw/company-logo_400_400/0/1653902543791?e=1698278400&v=beta&t=lsSuvo1PwYM6A6hrGbP7WmkTFK_58HTwUvoVeal3-2g",
+        "jobTitle": "Head Of Engineering",
+        "dateRange": "Jul 2021 - Oct 2021",
+        "duration": "4 mos",
+        "description": "Swarm is a licensed high-liquidity DeFi protocol. Lead the engineering function comprises a mix of internal and multiple external teams.\n\n• Functioned as a delivery manager in launching the world's first regulated DeFi platform. Led the successful launch of the industry's pioneering decentralised finance platform. \n• Architected the initial move to a layer two solution. Managed the move to Polygon and the reuse of the existing infrastructure. \n• Developed a robust reporting system using Python and the Etherscan API. Enabled comprehensive analysis of trades executed on the DeFi platform, providing valuable insights and reporting capabilities.\n• Designed and executed the company's hiring process, including screening interviews. Developed an effective hiring process to attract and evaluate qualified candidates. Conducted screening interviews to assess candidates' suitability for various roles within the company.\n• Established standardised development methods and best practices company-wide.",
+        "location": "London, England, United Kingdom · Remote",
+        "durationInCompanyByMonth": 4
+      },
+      {
+        "companyUrl": "https://www.linkedin.com/company/16251213/",
+        "companyName": "Global Parametrics",
+        "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQGPL1m2QK7UMg/company-logo_400_400/0/1544108855167?e=1698278400&v=beta&t=k_E4l8WeUupwd0nLYytWV8zZbREA_fPwJ2Aqxyk8ay0",
+        "jobTitle": "Senior Software Engineer",
+        "dateRange": "Aug 2020 - Jun 2021",
+        "duration": "11 mos",
+        "description": "Global Parametrics is a commercial, social venture using big data to provide parametric insurance to low- and middle-income countries. \n\n• Developed and implemented a webhook-based notification system integration with Ethereum-based insurance providers, serving as an oracle providing weather event data to Solidity smart contracts.\n• Building out serverless APIs in Python, PostgreSQL, and Big Query on GCP to support the pricing of parametric insurance products.\n• Serving as a delivery manager across the company, working to improve processes. \n• Designed the development process and coached teams across the company in Scrum and Agile best practices.\n• Delivered automated CI/CD pipelines across the product portfolio using GitHub Actions.",
+        "location": "London, England, United Kingdom · Hybrid",
+        "durationInCompanyByMonth": 11
+      },
+      {
+        "companyUrl": "https://www.linkedin.com/company/9312546/",
+        "companyName": "Clearmatics",
+        "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQHzw82D4E0SLw/company-logo_400_400/0/1687179493085?e=1698278400&v=beta&t=QxiFRSiwA74IYujAsndvZftx_-GnUN8Uu3t8f5ptbGE",
+        "jobTitle": "Head Of Engineering",
+        "dateRange": "Apr 2016 - Jul 2020",
+        "duration": "4 yrs 4 mos",
+        "description": "Clearmatics is a Blockchain R&D company focused on financial markets. In this role I manage engineering across the company with multiple teams of product development engineers while also providing individual contribution to software projects and lead establishment of processes.\n\n• Delivered the progression framework across the engineering function. The framework was subsequently used as the basis for progression in other departments.\n• Architected and built the Digital Cash Network (DCN) product, including the flagship implementation Utility Settlement Coin (USC) and the Asset Token contract core of the DCN system using Go, Python, Docker and Kubernetes for deployment, and contract code in Solidity. Added testing infrastructure around the core contract. \n• Wrote Go-based middleware as part of a microservice architecture to allow simultaneous and consistent access to multiple separate blockchain implementations in the DCN product.\n• Represent and evangelise Clearmatics at diverse industry events including meetups and as a mentor at the Chainhack Hackathon and Thomson Reuters HackETHon. Spoke on Blockchain at DevelopHer.\n• Developed and ran the company hiring process and screening interviews, doubling the size of the engineering team in four months. \n• Designed company’s development process, coached teams in Scrum and Agile best practices, and served as initial Scrum Master.\n• Built a prototype Ethereum-based blockchain pricing engine in Java using OpenGamma using a  deterministic version of OpenGamma to provide consistent floating point results. The finished system was demonstrated at QuantTech 2016.",
+        "location": "London, England, United Kingdom · On-site",
+        "durationInCompanyByMonth": 52
+      },
+      {
+        "companyUrl": "https://www.linkedin.com/company/7299/",
+        "companyName": "Skype",
+        "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFJ0XE6_E1fpg/company-logo_400_400/0/1519856433633?e=1698278400&v=beta&t=2UYUFFmGExvi7uYgevH9kUOhM7VAIPmWo54UH9ipmi0",
+        "jobTitle": "Software Engineer 2",
+        "dateRange": "Jan 2013 - Mar 2016",
+        "duration": "3 yrs 3 mos",
+        "description": "I was a core member of Skype’s Video for Android team and transitioned to Skype’s Concierge team, serving as scrum master and mentor for multiple engineering groups. My contributions included:\n\n• Developed a support chatbot as part of an internal hackathon which was selected for production. Refined the design and integrated the chatbot with Skype existing support content. Contributed to development of production version built in C# using Orleans on Azure.\n• Built Skype Concierge platform as a microservice-based targeted messaging platform in C# on Azure and scaled product to support 500M daily users and multiple simultaneous messaging campaigns. Migrated to the Orleans actor framework and worked in a DevOps model to support the service in production. \n• Started the Media for Skype for TV (audio/video) team to port the next generation C++ video and audio solution to an embedded Linux TV platform, delivering the second non-desktop group video call solution in Skype’s history. Mentored a graduate engineer and served as Scrum Master for UK team collaborating with teams in Palo Alto and Tallinn. \n• First hire for new Video for Android team and delivered the next generation C++ video encode/decode solution to 100M Android users in nine months. Served as Scrum Master for team split between London and Stockholm and collaborated with Moscow and Palo Alto teams.\n",
+        "location": "London, England, United Kingdom · On-site",
+        "durationInCompanyByMonth": 39
+      },
+      {
+        "companyUrl": "https://www.linkedin.com/company/1053/",
+        "companyName": "Intel Corporation",
+        "logoUrl": "https://media.licdn.com/dms/image/C560BAQGpvWtEtj9oTQ/company-logo_400_400/0/1625151708870?e=1698278400&v=beta&t=LU5Z1GnwCPMFNeSMDy20hL5hiaOX88wgAXssbQY1HW4",
+        "jobTitle": "Graphics Software Engineer",
+        "dateRange": "Aug 2003 - Jan 2013",
+        "duration": "9 yrs 6 mos",
+        "description": "I was initially hired as a member of 3Dlabs, which was rebranded as ZiiLABS in 2009 and later acquired by Intel in 2012. \n\n• A real-time H.264 encoder for ZiiLABS media processors running in microcode on the GPU. \n• A machine learning based rate control algorithm to optimise the image quality. \nan optimised hierarchical motion estimator. \n• A high-performance ARM based bitstream encoder.\n• A suite of tools for writing, analysing and testing GPU microcode in Perl, Ruby and C++.\n• A framebuffer object extension for the OpenGL driver in C/C++.\n• A DirectX Windows kernel mode driver in C/C++ to get full WHQL score.\n• Ported the existing 2D, DirectX and OpenGL drivers for Windows 64 in C/C++.",
+        "location": "Bristol, England, United Kingdom · On-site",
+        "durationInCompanyByMonth": 114
+      },
+      {
+        "companyUrl": "https://www.linkedin.com/company/23717/",
+        "companyName": "Pivotal Games",
+        "jobTitle": "Software Engineer",
+        "dateRange": "Feb 2002 - Aug 2003",
+        "duration": "1 yr 7 mos",
+        "description": "I was Lead PlayStation 2 Engineer on ‘The Great Escape’ responsible for gameplay programming in C++, bug triage, and Bugzilla administration. Other work included enhancement of an internal cross-platform game engine in C++ and microcode. ",
+        "location": "Bath, England, United Kingdom · On-site",
+        "durationInCompanyByMonth": 19
+      },
+      {
+        "companyUrl": "https://www.linkedin.com/company/1618/",
+        "companyName": "STMicroelectronics",
+        "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFyQ-q6iu6L0g/company-logo_400_400/0/1584338976031?e=1698278400&v=beta&t=bvhXI5aiKkAETUQMqZboYabhwy_haYomqBBupDpJ0LQ",
+        "jobTitle": "Architecture Engineer",
+        "dateRange": "Jun 2000 - Feb 2002",
+        "duration": "1 yr 9 mos",
+        "description": "Here I formed the ST200 VLIW codec team and built a prototype MP3 decoder in C, later enhanced to support image resizing. I also ported a JPEG decode library in C to the architecture, worked on new GPU design as a member of the architecture team, built a behavioural model of a GPU in C++ to validate the design, and detailed hardware design for a pixel shader processor in C++. \n\nI was also responsible for mentoring a graduate engineer and supervising a summer intern.\n",
+        "location": "Bristol, England, United Kingdom · On-site",
+        "durationInCompanyByMonth": 21
+      },
+      {
+        "companyUrl": "https://www.linkedin.com/company/62369/",
+        "companyName": "Aqua Pacific",
+        "jobTitle": "Programmer",
+        "dateRange": "Oct 1997 - Jun 2000",
+        "duration": "2 yrs 9 mos",
+        "description": "In this role I created a stack based virtual machine to run point and click adventures in C++ for Windows and PlayStation. Other work included development of a scene graph API, collision detection library and arcade style flight model in C++ for Windows, and SourceSafe and email server administration",
+        "location": "Royal Leamington Spa, England, United Kingdom · On-site",
+        "durationInCompanyByMonth": 33
+      },
+      {
+        "companyUrl": "https://www.linkedin.com/company/429502/",
+        "companyName": "Headland",
+        "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHF_lHjFn0A3w/company-logo_400_400/0/1588247024927?e=1698278400&v=beta&t=T4GlBMNB2x5aVeRDhlk2oPhFFFvWYWIi66QdjAScRmI",
+        "jobTitle": "Web Author",
+        "dateRange": "Aug 1996 - Sep 1996",
+        "duration": "2 mos",
+        "description": "I performed website design and maintenance for several clients.",
+        "location": "Nottingham, England, United Kingdom · On-site",
+        "durationInCompanyByMonth": 2
+      }
+    ],
+    "query": "https://www.linkedin.com/sales/lead/ACwAAAJPolgBfBW_SWsldPA1eReFRuGZ1KZyXlk,NAME_SEARCH,lfJy",
+    "schools": [
+      {
+        "schoolUrl": "https://www.linkedin.com/company/166641/",
+        "schoolName": "University of Hull",
+        "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFFsFV_RpNbww/company-logo_400_400/0/1663679419214?e=1698278400&v=beta&t=XdS0lexUaB6WPF6jHXwzaKC05iPeHTHRs4IISnbmzxE",
+        "degree": "Master of Science (MSc), Computer Graphics and Virtual Environments",
+        "dateRange": "1996 - 1997",
+        "description": "Dissertation: 'Real-time dynamic level of detail planet generation in Java and VRML'"
+      },
+      {
+        "schoolUrl": "https://www.linkedin.com/company/166641/",
+        "schoolName": "University of Hull",
+        "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFFsFV_RpNbww/company-logo_400_400/0/1663679419214?e=1698278400&v=beta&t=XdS0lexUaB6WPF6jHXwzaKC05iPeHTHRs4IISnbmzxE",
+        "degree": "Bachelor of Science (BSc), Software Engineering",
+        "dateRange": "1993 - 1996",
+        "description": "Dissertation: 'Raycasting fractal terrain using parallel processing'"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Recruiting",
+        "endorsements": 65
+      },
+      {
+        "name": "Big Data",
+        "endorsements": 21
+      },
+      {
+        "name": "Cross-Functional Team Management",
+        "endorsements": 43
+      },
+      {
+        "name": "Software Development Life Cycle (SDLC)",
+        "endorsements": 54
+      },
+      {
+        "name": "Stakeholder Management",
+        "endorsements": 54
+      },
+      {
+        "name": "Process Improvement & Optimisation",
+        "endorsements": 54
+      },
+      {
+        "name": "Technical Documentation",
+        "endorsements": 87
+      },
+      {
+        "name": "Security & Risk Management",
+        "endorsements": 65
+      },
+      {
+        "name": "IT Strategy",
+        "endorsements": 54
+      },
+      {
+        "name": "Business Analysis",
+        "endorsements": 54
+      },
+      {
+        "name": "ChatGPT",
+        "endorsements": 0
+      },
+      {
+        "name": "Large Language Models (LLM)",
+        "endorsements": 0
+      },
+      {
+        "name": "Prompt Engineering",
+        "endorsements": 0
+      },
+      {
+        "name": "JavaScript",
+        "endorsements": 21
+      },
+      {
+        "name": "Natural Language Processing (NLP)",
+        "endorsements": 0
+      },
+      {
+        "name": "Chatbots",
+        "endorsements": 0
+      },
+      {
+        "name": "Agile Methodologies",
+        "endorsements": 14
+      },
+      {
+        "name": "Software Engineering",
+        "endorsements": 4
+      },
+      {
+        "name": "Project Management",
+        "endorsements": 98
+      },
+      {
+        "name": "Agile",
+        "endorsements": 5
+      },
+      {
+        "name": "Scrum",
+        "endorsements": 13
+      },
+      {
+        "name": "Distributed Systems",
+        "endorsements": 2
+      },
+      {
+        "name": "Software Project Management",
+        "endorsements": 109
+      },
+      {
+        "name": "Algorithms",
+        "endorsements": 98
+      },
+      {
+        "name": "blockchain",
+        "endorsements": 3
+      },
+      {
+        "name": "ethereum",
+        "endorsements": 0
+      },
+      {
+        "name": "Linux",
+        "endorsements": 9
+      },
+      {
+        "name": "Git",
+        "endorsements": 14
+      },
+      {
+        "name": "Python",
+        "endorsements": 1
+      },
+      {
+        "name": "Solidity",
+        "endorsements": 0
+      },
+      {
+        "name": "REST API",
+        "endorsements": 21
+      },
+      {
+        "name": "Open Source Software",
+        "endorsements": 21
+      },
+      {
+        "name": "Ethereum",
+        "endorsements": 0
+      },
+      {
+        "name": "Representational State Transfer (REST)",
+        "endorsements": 43
+      },
+      {
+        "name": "Smart Contracts",
+        "endorsements": 32
+      },
+      {
+        "name": "GitHub",
+        "endorsements": 65
+      },
+      {
+        "name": "Web3",
+        "endorsements": 32
+      }
+    ],
+    "timestamp": "2023-07-26T11:29:26.076Z",
+    "averageJobStayingByPersonInMonth": 29.545454545454547,
+    "totalMonthOfExperience": 325,
+    "totalNumberOfCompaniesWorkedByThisPerson": 11
+  },
+  "email": "zoe@zien.io",
+  "read_by_user": {
+    "team@haix.ai": "Read",
+    "salesdemo@haix.ai": "Read"
+  },
+  "emailStatus": "unknown",
+  "emailVerification": {
+    "email": "zoe@zien.io",
+    "status": "unknown",
+    "reason": "timeout",
+    "domain": {
+      "name": "zien.io",
+      "acceptAll": "yes",
+      "disposable": "no",
+      "free": "no"
+    },
+    "account": {
+      "role": "no",
+      "disabled": "unknown",
+      "fullMailbox": "unknown"
+    },
+    "dns": {
+      "type": "MX",
+      "record": "aspmx.l.google.com."
+    },
+    "provider": "google.com",
+    "toxic": "unknown"
+  },
+  "lead_by_user": {
+    "undefined": "knownLead"
+  },
+  "manualUpdate": "yes",
+  "durationInCompanyByMonth": 21,
+  "durationInRoleByMonth": 21,
+  "pastExperienceDurationInMonth": 10
+}
