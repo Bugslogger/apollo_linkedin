@@ -32,11 +32,11 @@ const Person = () => {
         <AiOutlineArrowLeft /> <span className="mx-1">Back</span>
       </div>
       <div className="shadow-md relative py-2 px-4 bg-white my-3 w-4/5 mx-auto rounded-md">
-        <div className="mb-20 rounded-md overflow-hidden">
+        {/* <div className="mb-20 rounded-md overflow-hidden">
           <img src={user.personInfo.general.backgroundUrl} alt="" />
-        </div>
+        </div> */}
         <div className="flex-row  bg-white left-0 right-0 flex justify-start items-center">
-          <div className="absolute top-32 bg-white rounded-e-md">
+          <div className=" top-32 bg-white rounded-e-md">
             <img
               width={"150px"}
               height={"150px"}
@@ -230,7 +230,7 @@ const Person = () => {
           </div>
         </div>
       </div>
-      <div className="shadow-md py-3 px-4 bg-white my-3 w-4/5 mx-auto rounded-md h-80 overflow-hidden">
+      <div className="shadow-md py-3 relative px-4 bg-white my-3 w-4/5 mx-auto rounded-md h-80 overflow-hidden">
         <h2 className="font-bold text-xl">Insights</h2>
         <div
           className="my-2 flex justify-start items-start"
@@ -332,6 +332,11 @@ const Person = () => {
                   );
                 })}
             </div>
+          </div>
+        </div>
+        <div className="absolute flex justify-center items-center bg-black bg-opacity-30 w-full h-full left-0 top-0">
+          <div className=" text-white bg-blue-600 shadow py-3 px-6 text-base cursor-pointer rounded-md">
+            Subscriber
           </div>
         </div>
       </div>

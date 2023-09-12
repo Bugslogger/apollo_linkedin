@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/react-query": "^4.35.0",
     "axios": "^1.4.0",
     "bootstrap": "^5.3.1",
     "chart.js": "^4.3.3",
@@ -20,6 +21,7 @@
     "react-icons": "^4.10.1",
     "react-router-dom": "^6.15.0",
     "react-select": "^5.7.4",
+    "react-speech-kit": "^3.0.1",
     "react-tooltip": "^5.19.0",
     "react-window": "^1.8.9"
   },

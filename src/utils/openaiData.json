@@ -1,0 +1,2422 @@
+{
+  "Profile Info": {
+    "User Info": {
+      "_id": "614ed222b0c59d7ef3d18802",
+      "user": "solutions@haix.ai",
+      "user_id": "auth0|614ed19baf0c7500690fd6e9",
+      "uuid4": "d16b94a6-ed52-48db-9655-19136c9b45cf",
+      "useTwitter": "",
+      "useFb": "",
+      "useCustom": "",
+      "useSerpAPI": "",
+      "useInstagram": "",
+      "useReddit": "",
+      "companies": [
+        {
+          "id": "ac09543c-17f0-441d-9473-cef7aa065f95",
+          "lang": "en",
+          "createTime": "2023-01-31 13:42:02.219000",
+          "name": "ithra",
+          "newsHandler": "ithra",
+          "facebookHandler": "476937209020400",
+          "facebookScreenName": "ithra",
+          "twitterHandler": "ithra",
+          "instagramHandler": "ithra",
+          "redditHandler": "ithra",
+          "youtubeHandler": "ithra",
+          "linkedinHandler": "",
+          "tiktokHandler": "visitithra",
+          "linkedinPublicPageHandler": "ithra",
+          "linkedinPublicPageUrl": "https://www.linkedin.com/company/kingabdulazizcenterforworldculture",
+          "tiktokType": "userposts",
+          "instagramType": "manual_users",
+          "youtubeType": "channel",
+          "alerts": [
+            {
+              "alertType": "keywordDetectionAlert",
+              "tweetAlert": "yes",
+              "tweetKeyword": "museum",
+              "twitterKeywordfrequency": "weekly"
+            }
+          ],
+          "categories": { "twitterHandler": [{ "museum": "museum" }] }
+        },
+        {
+          "id": "2ec55936-ae49-4e3d-842a-875ea2113266",
+          "lang": "en",
+          "createTime": "2023-03-06 11:29:10.974000",
+          "name": "raj m.",
+          "newsHandler": "",
+          "facebookHandler": "",
+          "facebookScreenName": "",
+          "twitterHandler": "",
+          "instagramHandler": "",
+          "redditHandler": "",
+          "youtubeHandler": "",
+          "linkedinHandler": "",
+          "tiktokHandler": "",
+          "linkedinPublicPageHandler": "raj m.",
+          "linkedinPublicPageUrl": "",
+          "tiktokType": "userposts",
+          "instagramType": "manual_users",
+          "youtubeType": "channel",
+          "alerts": []
+        },
+        {
+          "id": "59893cca-e6ee-437b-8bb0-2de39f17dde7",
+          "lang": "en",
+          "createTime": "2023-03-15 19:11:52.742000",
+          "name": "yasar_follow",
+          "newsHandler": "",
+          "facebookHandler": "",
+          "facebookScreenName": "",
+          "twitterHandler": "",
+          "instagramHandler": "yasar_follow",
+          "redditHandler": "",
+          "youtubeHandler": "",
+          "linkedinHandler": "",
+          "tiktokHandler": "",
+          "linkedinPublicPageHandler": "",
+          "linkedinPublicPageUrl": "",
+          "tiktokType": "userposts",
+          "instagramType": "manual_users",
+          "youtubeType": "channel",
+          "alerts": []
+        }
+      ],
+      "liveSearchesSinceAccountCreation": 40122,
+      "liveSearchesLimit": 100000,
+      "autoCreated": "Yes",
+      "subscription": "paid",
+      "trackedCompaniesLimit": 30,
+      "facebookId": "79000285101",
+      "linkedin_Org": "35686945",
+      "linkedin_access_token": "AQVvRJfOR9k_3RIX7RRlAWKOps4ICa372bXUgOGgHSptnGuE0le5f6SS4EVcZ_WMO8xd3PA8VMJkp01gu_wy0au5RWGRs-jrti5zWFuxRtYPVubldUl3zhn1vIEvOYBG3nLoSqJEmabPhM74-q5glJ1XR30jkG6kXJhidtzI6v0dCww-fhKUl7hV7Ocziicbqzt-yxRWl5PWx1yvkKXg3oB-abAyifglxf8ii4S6S2ZnMUvHuzeRRSuTY0nqcU1ih6zgp9eMWw2eLIns67lTtGrYqeQIR57suHZYGItljWNAXzlEQVz9R_Wv66Mfk_JpaXAH2adQWabl6bzcbevFxkcS8CZxWQ",
+      "linkedin_organization_id": "35686945",
+      "insights_dashboard": "Yes",
+      "add_companies": "Yes",
+      "portfolio_insights": "Yes",
+      "portfolio_dashboard": "Yes",
+      "profile": "Yes",
+      "facebook_ads": "Yes",
+      "facebook_campaigns": "Yes",
+      "semantic_search": "Yes",
+      "linkedin": "Yes",
+      "bot_stats": "Yes",
+      "linkedin_access_token_expires_in": 5183999,
+      "linkedin_refresh_token": "AQXX0inn8HLko_wEwqV8oO3LKV_n4Zb74Ty2FF87LroPCjIIEUKKHI2FtCDHgZvI68XTb1mu1iRvwhZU9FviRoazH8V2qxg02sDfCI-LpzGmzCN3acdByXxwr6KzfpWsT37zNLJj3po2VDe-xhI8Uh8MyvQLW6koeSjuB2XGjZxnkFLkXUlaGxhBPpc7ZXv7AOs4osWdaKgIPyReSKnq4ZrpPUgrqhXbLj1gbNYGDPAzGA4trSp0vHgLRuiTZswnV5jgffiKU0INr8fn9_kMRqEN-qfkPU3blt9GJ8fFXBl8j8jSqNOP6CGzvsDo-tPFtTsmk_FGWaVMYUMZMNyLtwSG1PgRLw",
+      "linkedin_refresh_token_expires_in": 31535999,
+      "modified": "2023-03-15T19:11:52Z",
+      "modified_alerts": "2023-03-15T19:11:52Z",
+      "modified_categories": "2023-03-15T19:11:52Z",
+      "linkedin_access_token_expires_in_date": "15-03-2023 09:52:01",
+      "linkedin_refresh_token_expires_in_date": "14-01-2024 09:52:01",
+      "fb_accesstoken": "EAAEHobQehKMBABG7DdteM54eJ6Lv0qhAtDfTKB8NSGNhFy9bAwT0OiZB2r55i7VjONpf9WefOSqkkZC3n195FGcLVNNCkcr9mzdG8uLtdCwMdsp1WfkeiFZC1ZCPGk5HZBnRtBEgotSZBrTYimjuA8Y344jlf4N95CnjcAwr81ZA2ubXjKZB470FgdI8cM5vOQkcXHmgY78sk4i5RFSc86Tb",
+      "fb_facebookPageName": "Eden Energy Medicine",
+      "fb_facebookid": "114925208212975",
+      "isFbLoggedIn": "true",
+      "fbads_accesstoken": "EAAEHobQehKMBAGWB3EdZBkyQ8gKlwfl0JdjZCFwQ4nsIdEVsEB8NZC4fg0NMolKzxWUE7jc7s853P8LQ1e2TBra2MZAtufEInp8ugJ9GTjcNteFSXMAvsEkSWb824xETf291s51tIgc8I01uxUkRgoaZAiNE8kkoaJt0qVK6ZCdVw0ApxcZBkgnuVWjdwx7548ZD",
+      "fbads_accountid": "1832661307104988",
+      "fbads_expiresIn": "never",
+      "fbads_facebookPageName": "VSN Immigration",
+      "fbads_facebookid": "2228222627297499",
+      "isFbAdsLoggedIn": "false",
+      "ig_acode": "EAAEHobQehKMBAOjyum1QnMtVKs54VJUa5yNZCPQSKmUmSc4LudRXxQjHMMYxSzfSZBmwr6ZBZBs3cJp9wNcDncqjQ2MK79bpcz4eaObLMRRkw0GUQwvMZBUZCjCGQHEZAFGRaZBxrVn1hcX1Ca4jpdgKfUKTbiOTf6BRc1vDotATm7sVzvYQnkBL5nG3BrMRyBE4w3ZBTHw12RZAbdx30jgxus",
+      "ig_user_id": "17841445050160641",
+      "isInstaLoggedIn": "false",
+      "fbadsbots_application_id": "",
+      "fbadsbots_bearer": "",
+      "fbadsbots_bearer_id": "",
+      "fbadsbots_expires": "",
+      "fbadsbots_refreshToken": "",
+      "fbadsbots_user_id": "79000285101",
+      "isFbadsbotsLoggedIn": "undefined",
+      "favourites": {
+        "earlyWarningInsights": [
+          {
+            "searchTerm": "212580915784134",
+            "socialMediaType": ["facebook"],
+            "type": "sentiment",
+            "interval": "total",
+            "chartName": "Facebook Sentiment"
+          },
+          {
+            "searchTerm": ["212580915784134", "korporatecold"],
+            "socialMediaType": ["facebook", "twitter"],
+            "type": "categories",
+            "interval": "total",
+            "chartName": "Twitter Facebook Sentiment Timeline"
+          },
+          {
+            "searchTerm": "korporatecold",
+            "socialMediaType": ["twitter"],
+            "type": "sentiment",
+            "interval": "total",
+            "chartName": "Twitter Sentiment"
+          }
+        ],
+        "portfolioInsights": [],
+        "actionableInsights": [
+          {
+            "searchTerm": "korporatecold",
+            "socialMediaType": ["twitter"],
+            "type": "followers",
+            "interval": "day",
+            "chartName": "Followers"
+          }
+        ]
+      },
+      "fb_token_added_date": "14-03-2023 08:22:35",
+      "ig_token_added_date": "18-03-2023 13:17:06",
+      "linkedin_token_added_date": "14-01-2023 09:52:02",
+      "isLinkedinLoggedIn": "true",
+      "fbadsbots_token_added_date": "03-11-2022 08:33:38",
+      "isTiktokLoggedIn": "true",
+      "tiktok_access_token": "act.586fca9c3f98b0a99f6031cc85d259cfNqDRYEzZs9CGOYsaPFQ2S5X1mcfx!5034",
+      "tiktok_access_token_expires_in": 86400,
+      "tiktok_access_token_expires_in_date": "19-03-2023 16:26:14",
+      "tiktok_log_id": "202303181626141142E1FA78D59E925618",
+      "facebook_loginDetails": [
+        {
+          "fbpage_facebookPageName": "Alivecore AI London",
+          "fbpage_facebookId": "114925208212975",
+          "fbpage_ads_accountId": "226706402209350",
+          "isFbAdsLoggedIn": "true",
+          "fbpage_accesstoken": "EAAEHobQehKMBAI3rNQ5ZCtPYHh4tG4lRCsSs76BneILLd1fM7TKFDtYM7xa3sGlkq33pFmFOhTlEo4wZBSYmJBz8ll4Yl6Gv0fVJNCLzlZCEOq4nnqx9ayeAi1UpsRZA1eYCHTTkn3c6OOKfLPeZCo1UPUwF6IpS4K1yZCZARjVXJ6japyH7yRlTKpaZA7SeKNpcerLa43ZADlX9Wp3RVwXuZCMX4oSw5GiW8ZD"
+        },
+        {
+          "fbpage_facebookPageName": "Eden Energy Medicine Programs",
+          "fbpage_facebookId": "79000285101",
+          "fbpage_ads_accountId": "2028187237454818",
+          "isFbAdsLoggedIn": "true",
+          "fbpage_accesstoken": "EAAFvraBdLQIBAAFS5DVb08nnGV56sZCK36xftV7XUG5y4GQwsf6NjA83oTLaGMtlXQUJ6ZCOP5s486kWJKDmMOPsamuxxCM54SZCWRO7M8K4xTCnVUXIuKABlBnHZCEh2PAe026reGCkdNIrVglAx6hkgLC9hhJAyLkQXWQsZAnscDULVToz6vFdfYTmo50WYzEkCuHpFY5pmg2Br8gBVMTmpiKBY9ZBDn1rTxZAfOTFd8dD7ch65gD"
+        },
+        {
+          "fbpage_facebookPageName": "Alivecore",
+          "fbpage_facebookId": "110945604764282",
+          "fbpage_ads_accountId": "308098271207428",
+          "isFbAdsLoggedIn": "true",
+          "fbpage_accesstoken": "EAAEHobQehKMBAJ9LSwe7NjUNBGcI2rSTAUHL9LhtCZBlKTJ9xXHMtKzTj3Xa9FUrlxvXMtyxUwmfgzNC4BCDMtsaDijlKwst4RxDOgW3oH8bbHa0qsPZC6VaU2L3Lo4UwwRw81Bg7qOTO1SJ4VoXmBVAzUtYYkWuQn8L5Sce6ITYrX2rKXNZBZAyFf01vA6jSr6Oiza2osZAAEy8JFgd7ZATVKpsydUygZD"
+        },
+        {
+          "fbpage_facebookPageName": "VSN Immigration",
+          "fbpage_facebookId": "2228222627297499",
+          "fbpage_ads_accountId": "1832661307104988",
+          "isFbAdsLoggedIn": "true",
+          "fbpage_accesstoken": "EAAEHobQehKMBAC2PP4blfOY4B5spqkinbAAOnmoFyuc8ZAPNR0R4ZBng5m1acBEiqk9C1Q5jMkatWdJD2x9lVO4d30HrGReuRZCjkLAPqZCnXHmiNkxijS8zKiVq9njNWvYMOyZBeUkfQPbXWX7e45f6F7AvQHxQUeFQpdn32jDbsPhlM9CMQZA8RRPZAUnZC4aocghc0q7G39jKL7KQvzQoZAAxjBZAiyeMsZD"
+        }
+      ],
+      "tiktok_open_id": "_000GCs12bLu9RfwfoL7EAkzym5bwSVBiI1G",
+      "tiktok_refresh_token": "rft.3ebc138826e42dc72d4a63f3949d4c8e3F38MghHrykIasEss4xLhCmkQlIv!4973",
+      "tiktok_refresh_token_expires_in": 31536000,
+      "tiktok_refresh_token_expires_in_date": "17-03-2024 16:26:14",
+      "tiktok_token_added_date": "18-03-2023 16:26:14",
+      "companiesAdded": 3,
+      "fbads_token_added_date": "",
+      "ischatGPTLoggedIn": "Yes",
+      "fbads_longToken": "EAAEHobQehKMBAE7DoWxkmY9ZAs2RZCl5eeeakWeRVZCZCpovmGTYS37Hr91rrZCeeLsCFGBeKkKr5KZCVZB0KxDQyxbiEEymAZBaMe6cYUwT49ZC4hbEhfpUuUQhx0kpceRwn2feClisTE1zjLFJcK3PsI4WHfaruSRcLXRmZCUw7Dabn5y3ZAsnlbGb9aMyekOgB8ZD",
+      "fbads_longToken_added_date": "17-03-2023 17:58:14",
+      "instagram_loginDetails": [
+        {
+          "ig_user_id": "17841445050160641",
+          "isInstagramLoggedIn": "true",
+          "fbpage_facebookid": "110945604764282",
+          "fbpage_facebookName": "Alivecore",
+          "ig_acode": "EAAEHobQehKMBAOjyum1QnMtVKs54VJUa5yNZCPQSKmUmSc4LudRXxQjHMMYxSzfSZBmwr6ZBZBs3cJp9wNcDncqjQ2MK79bpcz4eaObLMRRkw0GUQwvMZBUZCjCGQHEZAFGRaZBxrVn1hcX1Ca4jpdgKfUKTbiOTf6BRc1vDotATm7sVzvYQnkBL5nG3BrMRyBE4w3ZBTHw12RZAbdx30jgxus"
+        },
+        {
+          "ig_user_id": "17841411471779919",
+          "isInstagramLoggedIn": "true",
+          "fbpage_facebookid": "2228222627297499",
+          "fbpage_facebookName": "VSN Immigration",
+          "fbpage_facebookUserName": "vsnimmigrationindia",
+          "ig_acode": "EAAEHobQehKMBAOjyum1QnMtVKs54VJUa5yNZCPQSKmUmSc4LudRXxQjHMMYxSzfSZBmwr6ZBZBs3cJp9wNcDncqjQ2MK79bpcz4eaObLMRRkw0GUQwvMZBUZCjCGQHEZAFGRaZBxrVn1hcX1Ca4jpdgKfUKTbiOTf6BRc1vDotATm7sVzvYQnkBL5nG3BrMRyBE4w3ZBTHw12RZAbdx30jgxus"
+        }
+      ],
+      "isInstagramLoggedIn": "true",
+      "hubspot_access_token": "CJ2myP6bMRIOAAEAUAAAQSIAAADcAQEYw5_PQiDIt-YYKIS4dzIUgQ1AoslHilGlaKcRNC365a0YQVQ6MAAAAEEAAAAAAAAAAAAAAAAAhgAAAAAAAAAAACAACAAeAOAxAAAAAADA__gBABBwA0IUHy4p3o1D6jiDqFZ0iJDKF80wDDJKA2V1MVIAWgA",
+      "hubspot_access_token_expires_in": 1800,
+      "hubspot_access_token_expires_in_date": "04-08-2023 09:12:43",
+      "hubspot_refresh_token": "eu1-688f-d877-4314-b12a-73f0e612d52f",
+      "hubspot_token_added_date": "04-08-2023 08:42:43",
+      "isHubspotLoggedIn": "true",
+      "Account name": "solutions@haix.ai"
+    }
+  },
+  "stats": {
+    "crunchBase": {
+      "timelineStats": {
+        "timeline": [
+          {
+            "posts": [
+              {
+                "_id": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                "aberdeen_summary": {},
+                "about_short_description": {
+                  "short_description": "OpenAI is an AI research and deployment company that conducts research and implements machine learning."
+                },
+                "acquired_by_fields": {},
+                "acquired_by_summary": {},
+                "acquisitions_headline": {},
+                "acquisitions_list": [],
+                "acquisitions_summary": {},
+                "advisors_headline": { "num_current_advisor_positions": 7 },
+                "advisors_summary": { "num_current_advisor_positions": 7 },
+                "alumni_headline": {},
+                "alumni_image_list": [],
+                "alumni_summary": {},
+                "apptopia_app_headline": { "apptopia_total_downloads": 30 },
+                "apptopia_app_overview_list_public": [
+                  {
+                    "identifier": {
+                      "uuid": "f57cf12b-ee07-4d05-8d09-a1393a9ef228",
+                      "value": "Synapse: AI Assistant",
+                      "image_id": "apptopia/app/apptopia_app.1666128558.",
+                      "entity_def_id": "apptopia_app"
+                    },
+                    "stores": ["itunes_connect"],
+                    "monthly_downloads": 30
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "38f96a41-202f-4f1a-ab3f-0c020f9c4532",
+                      "value": "OpenAI Explorer: AI Chatbot",
+                      "image_id": "apptopia/app/apptopia_app.1663978768.",
+                      "entity_def_id": "apptopia_app"
+                    },
+                    "stores": ["itunes_connect"]
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "45564d2b-9322-4dc0-996e-4c2fc29287df",
+                      "value": "Billionaire",
+                      "image_id": "apptopia/app/apptopia_app..com.tritium.billlionaire",
+                      "entity_def_id": "apptopia_app"
+                    },
+                    "stores": ["google_play"]
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "e37d9777-ffeb-47da-9f45-a6126a248871",
+                      "value": "Down Groups - New Friends IRL",
+                      "image_id": "apptopia/app/apptopia_app.1632533300.",
+                      "entity_def_id": "apptopia_app"
+                    },
+                    "stores": ["itunes_connect"]
+                  }
+                ],
+                "apptopia_summary": {
+                  "apptopia_total_apps": 4,
+                  "apptopia_total_downloads": 30
+                },
+                "bombora_attribution": { "bombora_last_updated": "2023-07-16" },
+                "bombora_summary": {},
+                "bombora_surge_list": [
+                  {
+                    "identifier": {
+                      "uuid": "48e22565-ad15-4357-8d96-8bc354e33fd6"
+                    },
+                    "uuid": "48e22565-ad15-4357-8d96-8bc354e33fd6",
+                    "weeks_surging": 1,
+                    "surge_score": 95,
+                    "category": "business_service",
+                    "topic_identifier": {
+                      "uuid": "e9b1fba4-5605-411f-ba58-039960d8bfbf",
+                      "value": "Gmail",
+                      "entity_def_id": "bombora_topic"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "9d273346-df7b-4ea0-8b9f-4b2555385cee"
+                    },
+                    "uuid": "9d273346-df7b-4ea0-8b9f-4b2555385cee",
+                    "weeks_surging": 1,
+                    "surge_score": 95,
+                    "category": "technology",
+                    "topic_identifier": {
+                      "uuid": "d4a75a5c-aac6-4013-bc0a-5d4412e7f4cf",
+                      "value": "Coinbase",
+                      "entity_def_id": "bombora_topic"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "ceeaef98-e506-477d-8557-f87bee8ee013"
+                    },
+                    "uuid": "ceeaef98-e506-477d-8557-f87bee8ee013",
+                    "weeks_surging": 1,
+                    "surge_score": 94,
+                    "category": "business_finance",
+                    "topic_identifier": {
+                      "uuid": "1e000650-08a3-4a10-849e-0157dbaf00a0",
+                      "value": "Bottom Line",
+                      "entity_def_id": "bombora_topic"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "9f76e9f6-5148-4799-85eb-ba5db8f0e81f"
+                    },
+                    "uuid": "9f76e9f6-5148-4799-85eb-ba5db8f0e81f",
+                    "weeks_surging": 4,
+                    "surge_score": 90,
+                    "surge_wow_growth": 0.285714285714286,
+                    "category": "business_service",
+                    "topic_identifier": {
+                      "uuid": "48d4f5d6-50de-4086-b01f-a83b5d6583f4",
+                      "value": "AI Automation",
+                      "entity_def_id": "bombora_topic"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "d766f08d-c030-4aca-9a20-4949d81fe7e8"
+                    },
+                    "uuid": "d766f08d-c030-4aca-9a20-4949d81fe7e8",
+                    "weeks_surging": 1,
+                    "surge_score": 90,
+                    "category": "social",
+                    "topic_identifier": {
+                      "uuid": "1729a43d-1c01-4960-a2c7-e99bef8727a2",
+                      "value": "Reddit",
+                      "entity_def_id": "bombora_topic"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "72961bfa-8d99-4f93-8026-2ec5f939fd52"
+                    },
+                    "uuid": "72961bfa-8d99-4f93-8026-2ec5f939fd52",
+                    "weeks_surging": 1,
+                    "surge_score": 89,
+                    "category": "sales",
+                    "topic_identifier": {
+                      "uuid": "262e5477-137f-4e59-b8c6-05b356f1a626",
+                      "value": "In-Market Accounts",
+                      "entity_def_id": "bombora_topic"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "83fdce0c-5bf0-4a22-bad9-0f7056dd17b6"
+                    },
+                    "uuid": "83fdce0c-5bf0-4a22-bad9-0f7056dd17b6",
+                    "weeks_surging": 2,
+                    "surge_score": 89,
+                    "surge_wow_growth": 0.369230769230769,
+                    "category": "business_service",
+                    "topic_identifier": {
+                      "uuid": "1b195cc3-185b-4f69-adfc-690f02a2243d",
+                      "value": "Microsoft Excel",
+                      "entity_def_id": "bombora_topic"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "0321502b-137f-4c43-9f03-e65bd612d663"
+                    },
+                    "uuid": "0321502b-137f-4c43-9f03-e65bd612d663",
+                    "weeks_surging": 2,
+                    "surge_score": 88,
+                    "surge_wow_growth": 0.0602409638554217,
+                    "category": "media_ad",
+                    "topic_identifier": {
+                      "uuid": "0cbfecf6-f4a9-4aec-8029-d2f11b3442e5",
+                      "value": "Venables Bell & Partners",
+                      "entity_def_id": "bombora_topic"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "1b4188c2-8ad7-41f4-86ee-67ddabe4ee6d"
+                    },
+                    "uuid": "1b4188c2-8ad7-41f4-86ee-67ddabe4ee6d",
+                    "weeks_surging": 1,
+                    "surge_score": 88,
+                    "category": "business_finance",
+                    "topic_identifier": {
+                      "uuid": "2393d5aa-56ea-488c-9c31-05a2be8d4392",
+                      "value": "EBITDA",
+                      "entity_def_id": "bombora_topic"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "9e50343e-c5c0-4a66-a10b-1a9939f08f1c"
+                    },
+                    "uuid": "9e50343e-c5c0-4a66-a10b-1a9939f08f1c",
+                    "weeks_surging": 1,
+                    "surge_score": 88,
+                    "category": "software_dev",
+                    "topic_identifier": {
+                      "uuid": "c70861d9-556a-4cc0-b961-ab27a2adf003",
+                      "value": "Git",
+                      "entity_def_id": "bombora_topic"
+                    }
+                  }
+                ],
+                "builtwith_summary": { "builtwith_num_technologies_used": 56 },
+                "company_about_fields": {
+                  "website": { "value": "https://www.openai.com" },
+                  "ipo_status": "private",
+                  "num_employees_enum": "c_00501_01000",
+                  "last_funding_type": "series_unknown",
+                  "location_identifiers": [
+                    {
+                      "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                      "value": "San Francisco",
+                      "permalink": "san-francisco-california",
+                      "entity_def_id": "location",
+                      "location_type": "city"
+                    },
+                    {
+                      "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                      "value": "California",
+                      "permalink": "california-united-states",
+                      "entity_def_id": "location",
+                      "location_type": "region"
+                    },
+                    {
+                      "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                      "value": "United States",
+                      "permalink": "united-states",
+                      "entity_def_id": "location",
+                      "location_type": "country"
+                    },
+                    {
+                      "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                      "value": "North America",
+                      "permalink": "north-america",
+                      "entity_def_id": "location",
+                      "location_type": "continent"
+                    }
+                  ],
+                  "rank_org_company": 19
+                },
+                "company_domain_name": "openai.com",
+                "company_financials_highlights": {
+                  "num_lead_investments": 2,
+                  "num_funds": 1,
+                  "num_investments": 5,
+                  "num_investors": 15,
+                  "num_lead_investors": 3,
+                  "funding_total": {
+                    "value": 11300120000,
+                    "currency": "USD",
+                    "value_usd": 11300120000
+                  },
+                  "num_funding_rounds": 7
+                },
+                "company_name": "openai",
+                "company_overview_highlights": {
+                  "num_org_similarities": 10,
+                  "num_current_positions": 31,
+                  "num_investments": 5,
+                  "num_investors": 15,
+                  "num_contacts": 144,
+                  "funding_total": {
+                    "value": 11300120000,
+                    "currency": "USD",
+                    "value_usd": 11300120000
+                  }
+                },
+                "contact_fields": { "contact_email": "press@openai.com" },
+                "contacts": {
+                  "num_contact_emails": 74,
+                  "num_contact_phones": 111,
+                  "num_contacts": 144
+                },
+                "contacts_summary": {
+                  "lookup": [
+                    {
+                      "name": "Ilya Sutskever",
+                      "identifier": {
+                        "uuid": "3bfc4bee-3edf-4a4f-8594-80d745a02ff0",
+                        "value": "Ilya Sutskever",
+                        "entity_def_id": "contact"
+                      },
+                      "linkedin": "ilya-sutskever-45978618",
+                      "job_levels": ["l_500_exec"],
+                      "job_titles": [
+                        {
+                          "uuid": "67f94724-6ebb-36e8-ba2a-600d3fda1e4f",
+                          "value": "Co-Founder",
+                          "permalink": "co-founder",
+                          "entity_def_id": "job_title"
+                        },
+                        {
+                          "uuid": "caaa84ac-ca34-36fb-a1be-609bc4e81c43",
+                          "value": "Founder",
+                          "permalink": "founder",
+                          "entity_def_id": "job_title"
+                        },
+                        {
+                          "uuid": "eaf82fa7-e2c0-3d74-8dcb-ae4b4b09abe8",
+                          "value": "Scientist",
+                          "permalink": "scientist",
+                          "entity_def_id": "job_title"
+                        }
+                      ],
+                      "job_departments": ["operations"],
+                      "num_emails": 1
+                    }
+                  ],
+                  "properties": {
+                    "num_contact_emails": 74,
+                    "num_contact_phones": 111,
+                    "num_contacts": 144
+                  },
+                  "data": [
+                    {
+                      "name": "Ilya Sutskever",
+                      "identifier": {
+                        "uuid": "3bfc4bee-3edf-4a4f-8594-80d745a02ff0",
+                        "value": "Ilya Sutskever",
+                        "entity_def_id": "contact"
+                      },
+                      "linkedin": "ilya-sutskever-45978618",
+                      "job_levels": ["l_500_exec"],
+                      "job_titles": [
+                        {
+                          "uuid": "67f94724-6ebb-36e8-ba2a-600d3fda1e4f",
+                          "value": "Co-Founder",
+                          "permalink": "co-founder",
+                          "entity_def_id": "job_title"
+                        },
+                        {
+                          "uuid": "caaa84ac-ca34-36fb-a1be-609bc4e81c43",
+                          "value": "Founder",
+                          "permalink": "founder",
+                          "entity_def_id": "job_title"
+                        },
+                        {
+                          "uuid": "eaf82fa7-e2c0-3d74-8dcb-ae4b4b09abe8",
+                          "value": "Scientist",
+                          "permalink": "scientist",
+                          "entity_def_id": "job_title"
+                        }
+                      ],
+                      "job_departments": ["operations"],
+                      "num_emails": 1
+                    }
+                  ]
+                },
+                "current_advisors_image_list": [
+                  {
+                    "identifier": {
+                      "uuid": "e4136bc1-341b-409f-a62d-16c6ba365c77",
+                      "value": "Shivon Zilis Board Member @ OpenAI",
+                      "permalink": "shivon-zilis-board-member-openai--e4136bc1",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "453545a6-71d7-989b-3ff8-a0a6f70e7959",
+                      "value": "Shivon Zilis",
+                      "image_id": "zstcylicaerrn2lwonus",
+                      "permalink": "shivon-zilis",
+                      "entity_def_id": "person"
+                    },
+                    "job_type": "board_member"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "3135c695-c71f-44b3-b31d-a3ad069bdcd0",
+                      "value": "Kelly Sims Board Advisor @ OpenAI",
+                      "permalink": "kelly-sims-advisor-openai--3135c695",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "e05a72b2-7ead-bcbd-1164-cce419976551",
+                      "value": "Kelly Sims",
+                      "image_id": "v1424054979/f20qmxgw0rhpwjmvh39f.jpg",
+                      "permalink": "kelly-sims",
+                      "entity_def_id": "person"
+                    },
+                    "job_type": "advisor",
+                    "started_on": {
+                      "value": "2020-04-01",
+                      "precision": "month"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "89481602-ef58-43ae-a6a2-0452a0913189",
+                      "value": "Matthew Mochary Advisor @ OpenAI",
+                      "permalink": "matthew-mochary-advisor-openai--89481602",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "05acb2e7-956c-4ebe-898e-4a20aa0237fd",
+                      "value": "Matthew Mochary",
+                      "image_id": "v9coq25gfi2sj0b3kd6m",
+                      "permalink": "matthew-mochary",
+                      "entity_def_id": "person"
+                    },
+                    "job_type": "advisor",
+                    "started_on": {
+                      "value": "2018-08-01",
+                      "precision": "month"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "9430aff0-6030-434c-acf5-2b90f79e651f",
+                      "value": "Helen Toner Board Member @ OpenAI",
+                      "permalink": "helen-toner-b554-board-member-openai--9430aff0",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "43cc5db1-94af-47af-97a4-439130edb554",
+                      "value": "Helen Toner",
+                      "image_id": "munikme6ojcpm3eauqm1",
+                      "permalink": "helen-toner-b554",
+                      "entity_def_id": "person"
+                    },
+                    "job_type": "board_member"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "a523a919-6692-4610-8d49-ab51f0b53b0c",
+                      "value": "Alessandro Cotrufo Chief Security Architect @ OpenAI",
+                      "permalink": "alessandro-cotrufo-advisor-openai--a523a919",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "da34f09c-a02f-44b4-a5d9-74f12c8c83f5",
+                      "value": "Alessandro Cotrufo",
+                      "image_id": "hqtjpelggf1qjr5bib27",
+                      "permalink": "alessandro-cotrufo",
+                      "entity_def_id": "person"
+                    },
+                    "job_type": "advisor",
+                    "started_on": { "value": "2022-08-04", "precision": "day" }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "c155b4c8-4ddf-451f-9e15-7513c90f2f41",
+                      "value": "Atlas Benjelloun Board Member @ OpenAI",
+                      "permalink": "atlas-benjelloun-board-member-openai--c155b4c8",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "9263da09-f9e6-49c9-a7bd-c30e8ca79f4a",
+                      "value": "Atlas Benjelloun",
+                      "image_id": "iwbxhcyh2x0s6alnmp1d",
+                      "permalink": "atlas-benjelloun",
+                      "entity_def_id": "person"
+                    },
+                    "job_type": "board_member"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "ebd4ab87-136b-4585-b01c-9f14de7338dd",
+                      "value": "Jade Leung Governance and Policy Advisor @ OpenAI",
+                      "permalink": "jade-leung-advisor-openai--ebd4ab87",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "235c9975-d3d4-4b6e-9636-7bc9187fff33",
+                      "value": "Jade Leung",
+                      "image_id": "vabxq5v1eflxpumpos92",
+                      "permalink": "jade-leung",
+                      "entity_def_id": "person"
+                    },
+                    "job_type": "advisor",
+                    "started_on": {
+                      "value": "2021-02-01",
+                      "precision": "month"
+                    }
+                  }
+                ],
+                "current_employees_featured_order_field": [
+                  {
+                    "person_identifier": {
+                      "uuid": "27e8c07e-41ef-03b3-9567-5c83a5fe2977",
+                      "value": "Ilya Sutskever",
+                      "image_id": "v1484187041/ubonzlb6bz2reoceqxsg.png",
+                      "permalink": "ilya-sutskever",
+                      "entity_def_id": "person"
+                    },
+                    "identifier": {
+                      "uuid": "c35adb38-248f-4f97-a6ce-3d620d438c9c",
+                      "value": "Ilya Sutskever Co-Founder and Chief Scientist @ OpenAI",
+                      "permalink": "ilya-sutskever-executive-openai--c35adb38",
+                      "entity_def_id": "job"
+                    },
+                    "started_on": {
+                      "value": "2018-11-01",
+                      "precision": "month"
+                    },
+                    "employee_featured_order": 1,
+                    "title": "Co-Founder and Chief Scientist"
+                  },
+                  {
+                    "person_identifier": {
+                      "uuid": "7fd3d201-18ea-fc1d-97ed-3daac3e9b8aa",
+                      "value": "Greg Brockman",
+                      "image_id": "n2dmdip1asycpbhphssy",
+                      "permalink": "greg-brockman",
+                      "entity_def_id": "person"
+                    },
+                    "identifier": {
+                      "uuid": "d0858d5a-dee1-427f-898c-fcb5777b6f5a",
+                      "value": "Greg Brockman Co-founder, Chairman and CTO @ OpenAI",
+                      "permalink": "greg-brockman-executive-openai--d0858d5a",
+                      "entity_def_id": "job"
+                    },
+                    "started_on": {
+                      "value": "2015-01-01",
+                      "precision": "year"
+                    },
+                    "employee_featured_order": 2,
+                    "title": "Co-founder, Chairman and CTO"
+                  },
+                  {
+                    "person_identifier": {
+                      "uuid": "97529280-6166-4fec-3e6d-d77c70975374",
+                      "value": "Dario Amodei",
+                      "image_id": "v1484971642/ysddve9geqdap1lkeflu.png",
+                      "permalink": "dario-amodei",
+                      "entity_def_id": "person"
+                    },
+                    "identifier": {
+                      "uuid": "07ed8829-d463-4632-9bb0-3c208c9ec93a",
+                      "value": "Dario Amodei Vice President of Research @ OpenAI",
+                      "permalink": "dario-amodei-employee-openai--07ed8829",
+                      "entity_def_id": "job"
+                    },
+                    "started_on": {
+                      "value": "2019-12-01",
+                      "precision": "month"
+                    },
+                    "title": "Vice President of Research"
+                  },
+                  {
+                    "person_identifier": {
+                      "uuid": "e3c880a1-ae7a-46a6-aebc-33db51aaa0de",
+                      "value": "Joel Lehman",
+                      "image_id": "ctqo0qjsencw1asrxhrk",
+                      "permalink": "joel-lehman",
+                      "entity_def_id": "person"
+                    },
+                    "identifier": {
+                      "uuid": "084b667e-ad9b-4d0c-a1d9-5cff3a096d75",
+                      "value": "Joel Lehman ML Research Scientist @ OpenAI",
+                      "permalink": "joel-lehman-employee-openai--084b667e",
+                      "entity_def_id": "job"
+                    },
+                    "started_on": {
+                      "value": "2020-08-01",
+                      "precision": "month"
+                    },
+                    "title": "ML Research Scientist"
+                  },
+                  {
+                    "person_identifier": {
+                      "uuid": "a9b2196f-330e-0e7e-7503-fa9df0b6c8d1",
+                      "value": "Felipe Petroski Such",
+                      "image_id": "v1417767011/pwlrxashboxmpfrlaog1.jpg",
+                      "permalink": "felipe-petroski-such",
+                      "entity_def_id": "person"
+                    },
+                    "identifier": {
+                      "uuid": "08d77e07-8b84-4131-92ad-a822a8765f94",
+                      "value": "Felipe Petroski Such Member Of Technical Staff @ OpenAI",
+                      "permalink": "felipe-petroski-such-employee-openai--08d77e07",
+                      "entity_def_id": "job"
+                    },
+                    "started_on": {
+                      "value": "2020-07-01",
+                      "precision": "month"
+                    },
+                    "title": "Member Of Technical Staff"
+                  },
+                  {
+                    "person_identifier": {
+                      "uuid": "a272cd57-d2ca-e213-da2a-bbbc97d2fa52",
+                      "value": "Scott Gray",
+                      "image_id": "vxbmkj9ui5rvg01yjfji",
+                      "permalink": "scott-gray-4",
+                      "entity_def_id": "person"
+                    },
+                    "identifier": {
+                      "uuid": "0b2b1c0c-a512-4e54-bdb5-ef6f12bcbfdb",
+                      "value": "Scott Gray Member of Technical Staff @ OpenAI",
+                      "permalink": "scott-gray-4-employee-openai--0b2b1c0c",
+                      "entity_def_id": "job"
+                    },
+                    "started_on": { "value": "2016-07-20", "precision": "day" },
+                    "title": "Member of Technical Staff"
+                  },
+                  {
+                    "person_identifier": {
+                      "uuid": "5d07d18a-1d95-5af3-b34f-bbc3c0ae0043",
+                      "value": "Mira Murati",
+                      "image_id": "v1493323049/glrtycvvo5cggfqyz3bc.jpg",
+                      "permalink": "mira-murati",
+                      "entity_def_id": "person"
+                    },
+                    "identifier": {
+                      "uuid": "0d354248-0721-4ddb-b7b6-6ac56de4b9c3",
+                      "value": "Mira Murati SVP of Research, Product & Partnerships @ OpenAI",
+                      "permalink": "mira-murati-employee-openai--0d354248",
+                      "entity_def_id": "job"
+                    },
+                    "started_on": {
+                      "value": "2020-12-01",
+                      "precision": "month"
+                    },
+                    "title": "SVP of Research, Product & Partnerships"
+                  },
+                  {
+                    "person_identifier": {
+                      "uuid": "5e27fc4b-ed10-48d3-a837-964fe6c9c800",
+                      "value": "Tomer Kaftan",
+                      "image_id": "ggrfgnppy9phlqytexw4",
+                      "permalink": "tomer-kaftan",
+                      "entity_def_id": "person"
+                    },
+                    "identifier": {
+                      "uuid": "0df549f4-1bee-462f-9a70-3b2b6eb865bd",
+                      "value": "Tomer Kaftan Member Of Technical Staff @ OpenAI",
+                      "permalink": "tomer-kaftan-employee-openai--0df549f4",
+                      "entity_def_id": "job"
+                    },
+                    "title": "Member Of Technical Staff"
+                  },
+                  {
+                    "person_identifier": {
+                      "uuid": "41fbce70-81a7-c4ca-8563-5546ab2fa711",
+                      "value": "Stanislas Polu",
+                      "image_id": "v1397181765/ed5dd3c44e87ff85e4675ea324839737.jpg",
+                      "permalink": "stanislas-polu",
+                      "entity_def_id": "person"
+                    },
+                    "identifier": {
+                      "uuid": "0f7624f1-68c4-4a86-961c-5d6f88963abd",
+                      "value": "Stanislas Polu Research Engineer @ OpenAI",
+                      "permalink": "stanislas-polu-executive-openai--0f7624f1",
+                      "entity_def_id": "job"
+                    },
+                    "started_on": {
+                      "value": "2019-09-01",
+                      "precision": "month"
+                    },
+                    "title": "Research Engineer"
+                  },
+                  {
+                    "person_identifier": {
+                      "uuid": "a3df6a67-bf80-3873-4e4c-23263599e718",
+                      "value": "Oleg M\u00fcrk",
+                      "image_id": "v1490952953/w1rycyco5aiur1no3giy.jpg",
+                      "permalink": "oleg-murk",
+                      "entity_def_id": "person"
+                    },
+                    "identifier": {
+                      "uuid": "101dcc17-4531-4dcb-811e-f343bcb26186",
+                      "value": "Oleg M\u00fcrk Member of Technical Staff @ OpenAI",
+                      "permalink": "oleg-murk-employee-openai--101dcc17",
+                      "entity_def_id": "job"
+                    },
+                    "started_on": {
+                      "value": "2022-01-01",
+                      "precision": "month"
+                    },
+                    "title": "Member of Technical Staff"
+                  }
+                ],
+                "current_employees_headline": { "num_current_positions": 31 },
+                "current_employees_image_list": [
+                  {
+                    "identifier": {
+                      "uuid": "c35adb38-248f-4f97-a6ce-3d620d438c9c",
+                      "value": "Ilya Sutskever Co-Founder and Chief Scientist @ OpenAI",
+                      "permalink": "ilya-sutskever-executive-openai--c35adb38",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "27e8c07e-41ef-03b3-9567-5c83a5fe2977",
+                      "value": "Ilya Sutskever",
+                      "image_id": "v1484187041/ubonzlb6bz2reoceqxsg.png",
+                      "permalink": "ilya-sutskever",
+                      "entity_def_id": "person"
+                    },
+                    "title": "Co-Founder and Chief Scientist"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "d0858d5a-dee1-427f-898c-fcb5777b6f5a",
+                      "value": "Greg Brockman Co-founder, Chairman and CTO @ OpenAI",
+                      "permalink": "greg-brockman-executive-openai--d0858d5a",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "7fd3d201-18ea-fc1d-97ed-3daac3e9b8aa",
+                      "value": "Greg Brockman",
+                      "image_id": "n2dmdip1asycpbhphssy",
+                      "permalink": "greg-brockman",
+                      "entity_def_id": "person"
+                    },
+                    "title": "Co-founder, Chairman and CTO"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "07ed8829-d463-4632-9bb0-3c208c9ec93a",
+                      "value": "Dario Amodei Vice President of Research @ OpenAI",
+                      "permalink": "dario-amodei-employee-openai--07ed8829",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "97529280-6166-4fec-3e6d-d77c70975374",
+                      "value": "Dario Amodei",
+                      "image_id": "v1484971642/ysddve9geqdap1lkeflu.png",
+                      "permalink": "dario-amodei",
+                      "entity_def_id": "person"
+                    },
+                    "title": "Vice President of Research"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "084b667e-ad9b-4d0c-a1d9-5cff3a096d75",
+                      "value": "Joel Lehman ML Research Scientist @ OpenAI",
+                      "permalink": "joel-lehman-employee-openai--084b667e",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "e3c880a1-ae7a-46a6-aebc-33db51aaa0de",
+                      "value": "Joel Lehman",
+                      "image_id": "ctqo0qjsencw1asrxhrk",
+                      "permalink": "joel-lehman",
+                      "entity_def_id": "person"
+                    },
+                    "title": "ML Research Scientist"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "08d77e07-8b84-4131-92ad-a822a8765f94",
+                      "value": "Felipe Petroski Such Member Of Technical Staff @ OpenAI",
+                      "permalink": "felipe-petroski-such-employee-openai--08d77e07",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "a9b2196f-330e-0e7e-7503-fa9df0b6c8d1",
+                      "value": "Felipe Petroski Such",
+                      "image_id": "v1417767011/pwlrxashboxmpfrlaog1.jpg",
+                      "permalink": "felipe-petroski-such",
+                      "entity_def_id": "person"
+                    },
+                    "title": "Member Of Technical Staff"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "0b2b1c0c-a512-4e54-bdb5-ef6f12bcbfdb",
+                      "value": "Scott Gray Member of Technical Staff @ OpenAI",
+                      "permalink": "scott-gray-4-employee-openai--0b2b1c0c",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "a272cd57-d2ca-e213-da2a-bbbc97d2fa52",
+                      "value": "Scott Gray",
+                      "image_id": "vxbmkj9ui5rvg01yjfji",
+                      "permalink": "scott-gray-4",
+                      "entity_def_id": "person"
+                    },
+                    "title": "Member of Technical Staff"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "0d354248-0721-4ddb-b7b6-6ac56de4b9c3",
+                      "value": "Mira Murati SVP of Research, Product & Partnerships @ OpenAI",
+                      "permalink": "mira-murati-employee-openai--0d354248",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "5d07d18a-1d95-5af3-b34f-bbc3c0ae0043",
+                      "value": "Mira Murati",
+                      "image_id": "v1493323049/glrtycvvo5cggfqyz3bc.jpg",
+                      "permalink": "mira-murati",
+                      "entity_def_id": "person"
+                    },
+                    "title": "SVP of Research, Product & Partnerships"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "0df549f4-1bee-462f-9a70-3b2b6eb865bd",
+                      "value": "Tomer Kaftan Member Of Technical Staff @ OpenAI",
+                      "permalink": "tomer-kaftan-employee-openai--0df549f4",
+                      "entity_def_id": "job"
+                    },
+                    "person_identifier": {
+                      "uuid": "5e27fc4b-ed10-48d3-a837-964fe6c9c800",
+                      "value": "Tomer Kaftan",
+                      "image_id": "ggrfgnppy9phlqytexw4",
+                      "permalink": "tomer-kaftan",
+                      "entity_def_id": "person"
+                    },
+                    "title": "Member Of Technical Staff"
+                  }
+                ],
+                "current_employees_summary": { "num_current_positions": 31 },
+                "diversity_spotlight_investments_headline": {},
+                "diversity_spotlight_investments_list": [],
+                "diversity_spotlight_investments_summary": {},
+                "entity_def_id": "organization",
+                "event_appearances_headline": { "num_event_appearances": 3 },
+                "event_appearances_list": [
+                  {
+                    "identifier": {
+                      "uuid": "077eb085-783a-49b3-a353-520ee765c1ac",
+                      "value": "Reinforcement Learning Summit, Toronto's sponsor - OpenAI",
+                      "permalink": "openai-sponsor-reinforcement-learning-summit-toronto--077eb085",
+                      "entity_def_id": "event_appearance"
+                    },
+                    "event_identifier": {
+                      "uuid": "d1699644-78e7-4220-87ee-60fb5d90a6ac",
+                      "value": "Reinforcement Learning Summit, Toronto",
+                      "image_id": "fxiknijzrq4ctrrdwipo",
+                      "permalink": "reinforcement-learning-summit-toronto",
+                      "entity_def_id": "event"
+                    },
+                    "appearance_type": "sponsor",
+                    "event_starts_on": "2022-11-09"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "c18c644f-ceb0-45e0-a32f-2267da204c40",
+                      "value": "Grace Hopper Celebration of Women in Computing 2019's sponsor - OpenAI",
+                      "permalink": "openai-sponsor-grace-hopper-celebration-of-women-in-computing-2019--c18c644f",
+                      "entity_def_id": "event_appearance"
+                    },
+                    "event_identifier": {
+                      "uuid": "61a24938-ecd0-4f9a-8c52-f16899409387",
+                      "value": "Grace Hopper Celebration of Women in Computing 2019",
+                      "image_id": "xgsrtqpymmdvhiejpdrl",
+                      "permalink": "grace-hopper-celebration-of-women-in-computing-2019",
+                      "entity_def_id": "event"
+                    },
+                    "appearance_type": "sponsor",
+                    "event_starts_on": "2019-10-01"
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "f9db4a1d-11b2-4ef2-9276-5a5a4d5e541e",
+                      "value": "Y Combinator Summer 2016 Demo Day's exhibitor - OpenAI",
+                      "permalink": "openai-exhibitor-y-combinator-summer-2016-demo-day--f9db4a1d",
+                      "entity_def_id": "event_appearance"
+                    },
+                    "event_identifier": {
+                      "uuid": "56e31f22-b8a8-4a7f-8ad6-5850a1285df4",
+                      "value": "Y Combinator Summer 2016 Demo Day",
+                      "image_id": "h524yg4ztmxrj86h1j35",
+                      "permalink": "y-combinator-summer-2016-demo-day",
+                      "entity_def_id": "event"
+                    },
+                    "appearance_type": "exhibitor",
+                    "event_starts_on": "2016-08-22"
+                  }
+                ],
+                "event_appearances_summary": { "num_event_appearances": 3 },
+                "exits_headline": {},
+                "exits_image_list": [],
+                "exits_summary": {},
+                "frequently_asked_questions_headquarters_location": {
+                  "location_identifiers": [
+                    {
+                      "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                      "value": "San Francisco",
+                      "permalink": "san-francisco-california",
+                      "entity_def_id": "location",
+                      "location_type": "city"
+                    },
+                    {
+                      "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                      "value": "California",
+                      "permalink": "california-united-states",
+                      "entity_def_id": "location",
+                      "location_type": "region"
+                    },
+                    {
+                      "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                      "value": "United States",
+                      "permalink": "united-states",
+                      "entity_def_id": "location",
+                      "location_type": "country"
+                    },
+                    {
+                      "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                      "value": "North America",
+                      "permalink": "north-america",
+                      "entity_def_id": "location",
+                      "location_type": "continent"
+                    }
+                  ]
+                },
+                "frequently_asked_questions_investors": { "num_investors": 15 },
+                "frequently_asked_questions_latest_funding_round": {
+                  "last_funding_at": "2023-04-28",
+                  "last_funding_type": "series_unknown",
+                  "num_funding_rounds": 7
+                },
+                "frequently_asked_questions_similar_companies": {},
+                "frequently_asked_questions_total_funding": {
+                  "funding_total": {
+                    "value": 11300120000,
+                    "currency": "USD",
+                    "value_usd": 11300120000
+                  }
+                },
+                "funding_rounds_headline": {
+                  "funding_total": {
+                    "value": 11300120000,
+                    "currency": "USD",
+                    "value_usd": 11300120000
+                  },
+                  "num_funding_rounds": 7
+                },
+                "funding_rounds_list": [
+                  {
+                    "identifier": {
+                      "uuid": "307f0b72-9fd6-4529-8cd5-0dc9591123c9",
+                      "value": "Venture Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-series-unknown--307f0b72",
+                      "entity_def_id": "funding_round"
+                    },
+                    "announced_on": "2023-04-28",
+                    "money_raised": {
+                      "value": 300000000,
+                      "currency": "USD",
+                      "value_usd": 300000000
+                    },
+                    "num_investors": 9
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "68edca00-fede-469e-b3ca-03e00ed0a3eb",
+                      "value": "Corporate Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-corporate-round--68edca00",
+                      "entity_def_id": "funding_round"
+                    },
+                    "announced_on": "2023-01-23",
+                    "money_raised": {
+                      "value": 10000000000,
+                      "currency": "USD",
+                      "value_usd": 10000000000
+                    },
+                    "num_investors": 1,
+                    "lead_investor_identifiers": [
+                      {
+                        "uuid": "fd80725f-53fc-7009-9878-aeecf1e9ffbb",
+                        "value": "Microsoft",
+                        "image_id": "v1501613147/ypg7mliwmzomf9fdrkvz.png",
+                        "permalink": "microsoft",
+                        "entity_def_id": "organization"
+                      }
+                    ]
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "95eed4a1-135f-4195-a493-7cd3fc946d36",
+                      "value": "Secondary Market - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-secondary-market--95eed4a1",
+                      "entity_def_id": "funding_round"
+                    },
+                    "announced_on": "2022-01-01",
+                    "num_investors": 1
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "ac1e85f3-2936-4058-aa2d-597b2a516291",
+                      "value": "Secondary Market - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-secondary-market--ac1e85f3",
+                      "entity_def_id": "funding_round"
+                    },
+                    "announced_on": "2021-01-01",
+                    "num_investors": 4
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "96600b97-83f2-42a6-a307-c7c7dce826c6",
+                      "value": "Corporate Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-corporate-round--96600b97",
+                      "entity_def_id": "funding_round"
+                    },
+                    "announced_on": "2019-07-23",
+                    "money_raised": {
+                      "value": 1000000000,
+                      "currency": "USD",
+                      "value_usd": 1000000000
+                    },
+                    "num_investors": 1,
+                    "lead_investor_identifiers": [
+                      {
+                        "uuid": "fd80725f-53fc-7009-9878-aeecf1e9ffbb",
+                        "value": "Microsoft",
+                        "image_id": "v1501613147/ypg7mliwmzomf9fdrkvz.png",
+                        "permalink": "microsoft",
+                        "entity_def_id": "organization"
+                      }
+                    ]
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "7d98db69-2718-425c-bacf-d74bac1f3fe7",
+                      "value": "Seed Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-seed--7d98db69",
+                      "entity_def_id": "funding_round"
+                    },
+                    "announced_on": "2019-03-11",
+                    "num_investors": 2,
+                    "lead_investor_identifiers": [
+                      {
+                        "uuid": "fe5a4983-a46a-2fc2-5633-e35e0a86b694",
+                        "value": "Khosla Ventures",
+                        "image_id": "fcgp8cbvphlhsptwpjqc",
+                        "permalink": "khosla-ventures",
+                        "entity_def_id": "organization"
+                      },
+                      {
+                        "uuid": "c06aede0-9fe4-4406-a44c-8068a31b7775",
+                        "value": "Reid Hoffman Foundation",
+                        "permalink": "reid-hoffman-foundation",
+                        "entity_def_id": "organization"
+                      }
+                    ]
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "3a965a76-1e2a-419c-a120-782b0522dee4",
+                      "value": "Pre Seed Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-pre-seed--3a965a76",
+                      "entity_def_id": "funding_round"
+                    },
+                    "announced_on": "2016-08-22",
+                    "money_raised": {
+                      "value": 120000,
+                      "currency": "USD",
+                      "value_usd": 120000
+                    },
+                    "num_investors": 1
+                  }
+                ],
+                "funding_rounds_summary": {
+                  "funding_total": {
+                    "value": 11300120000,
+                    "currency": "USD",
+                    "value_usd": 11300120000
+                  },
+                  "num_funding_rounds": 7,
+                  "last_funding_type": "series_unknown",
+                  "last_funding_at": "2023-04-28"
+                },
+                "funds_headline": {
+                  "funds_total": {
+                    "value": 100000000,
+                    "currency": "USD",
+                    "value_usd": 100000000
+                  },
+                  "num_funds": 1
+                },
+                "funds_list": [
+                  {
+                    "announced_on": "2021-05-26",
+                    "identifier": {
+                      "uuid": "1eea9b83-7360-4a0a-931a-e67dc5a57916",
+                      "value": "OpenAI Startup Fund",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-raised-openai-startup-fund--1eea9b83",
+                      "entity_def_id": "fund"
+                    },
+                    "money_raised": {
+                      "value": 100000000,
+                      "currency": "USD",
+                      "value_usd": 100000000
+                    }
+                  }
+                ],
+                "funds_summary": {
+                  "funds_total": {
+                    "value": 100000000,
+                    "currency": "USD",
+                    "value_usd": 100000000
+                  },
+                  "num_funds": 1
+                },
+                "investments_headline": {
+                  "num_investments": 5,
+                  "num_lead_investments": 2
+                },
+                "investments_list": [
+                  {
+                    "is_lead_investor": true,
+                    "identifier": {
+                      "uuid": "398ab9ad-d182-4d97-8834-bfcdf39bfbd8",
+                      "value": "OpenAI investment in Grant - American Journalism Project",
+                      "permalink": "openai-invested-in-american-journalism-project-grant--f1066ef2--398ab9ad",
+                      "entity_def_id": "investment"
+                    },
+                    "announced_on": "2023-07-18",
+                    "organization_identifier": {
+                      "uuid": "3012c4c0-d188-41da-a9fb-3122feabcc11",
+                      "value": "American Journalism Project",
+                      "image_id": "weqeutawrfae3ycpvga8",
+                      "permalink": "american-journalism-project",
+                      "entity_def_id": "organization"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "f1066ef2-5513-46b8-a8e9-a85a0258f90f",
+                      "value": "Grant - American Journalism Project",
+                      "image_id": "weqeutawrfae3ycpvga8",
+                      "permalink": "american-journalism-project-grant--f1066ef2",
+                      "entity_def_id": "funding_round"
+                    },
+                    "funding_round_money_raised": {
+                      "value": 5000000,
+                      "currency": "USD",
+                      "value_usd": 5000000
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "206f1a31-f6e2-419b-94ce-e2c19b65f0fd",
+                      "value": "OpenAI investment in Non Equity Assistance - Oikeus.AI",
+                      "permalink": "openai-invested-in-oikeus-ai-non-equity-assistance--ae382f18--206f1a31",
+                      "entity_def_id": "investment"
+                    },
+                    "announced_on": "2023-05-01",
+                    "organization_identifier": {
+                      "uuid": "f5a139ae-b76f-42ed-9ed3-d2a6afa5da0d",
+                      "value": "Oikeus.AI",
+                      "image_id": "sohubp8mconghwztwzka",
+                      "permalink": "oikeus-ai",
+                      "entity_def_id": "organization"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "ae382f18-1067-4b8d-86d7-a5cd27ad6b41",
+                      "value": "Non Equity Assistance - Oikeus.AI",
+                      "image_id": "sohubp8mconghwztwzka",
+                      "permalink": "oikeus-ai-non-equity-assistance--ae382f18",
+                      "entity_def_id": "funding_round"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "a6258cda-08b6-4d83-88b0-ac96cc3cc23c",
+                      "value": "OpenAI investment in Series A - EdgeDB",
+                      "permalink": "openai-invested-in-edgedb-inc-series-a--5bdb5904--a6258cda",
+                      "entity_def_id": "investment"
+                    },
+                    "announced_on": "2022-11-07",
+                    "organization_identifier": {
+                      "uuid": "5ec743af-0992-44c3-aefe-f6b87985320d",
+                      "value": "EdgeDB",
+                      "image_id": "i4ansm5cqqg2ps8zie7y",
+                      "permalink": "edgedb-inc",
+                      "entity_def_id": "organization"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "5bdb5904-cd16-461f-ab43-6f03d50ed97f",
+                      "value": "Series A - EdgeDB",
+                      "image_id": "i4ansm5cqqg2ps8zie7y",
+                      "permalink": "edgedb-inc-series-a--5bdb5904",
+                      "entity_def_id": "funding_round"
+                    },
+                    "funding_round_money_raised": {
+                      "value": 15000000,
+                      "currency": "USD",
+                      "value_usd": 15000000
+                    }
+                  },
+                  {
+                    "is_lead_investor": true,
+                    "identifier": {
+                      "uuid": "af1c5668-4d14-40e4-83d3-4e0db1a0fa8a",
+                      "value": "OpenAI investment in Series C - Descript",
+                      "permalink": "openai-invested-in-descript-series-c--f3c8956e--af1c5668",
+                      "entity_def_id": "investment"
+                    },
+                    "announced_on": "2022-10-27",
+                    "organization_identifier": {
+                      "uuid": "5ced63d2-91d4-41ab-8efb-3de23ec92557",
+                      "value": "Descript",
+                      "image_id": "xtloikyv8t1y9duch9fj",
+                      "permalink": "descript",
+                      "entity_def_id": "organization"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "f3c8956e-b79f-4669-a362-bf650538afc4",
+                      "value": "Series C - Descript",
+                      "image_id": "xtloikyv8t1y9duch9fj",
+                      "permalink": "descript-series-c--f3c8956e",
+                      "entity_def_id": "funding_round"
+                    },
+                    "funding_round_money_raised": {
+                      "value": 50000000,
+                      "currency": "USD",
+                      "value_usd": 50000000
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "aa879624-21d8-43ea-8e7f-57ffde960962",
+                      "value": "OpenAI investment in Series A - Ambience Healthcare",
+                      "permalink": "openai-invested-in-ambience-healthcare-series-a--0a4a13f7--aa879624",
+                      "entity_def_id": "investment"
+                    },
+                    "announced_on": "2022-04-25",
+                    "organization_identifier": {
+                      "uuid": "7d2d7d0a-58b0-4762-9f80-c844cd4148f6",
+                      "value": "Ambience Healthcare",
+                      "image_id": "f4z7rvpaxaxfhqaskgxe",
+                      "permalink": "ambience-healthcare",
+                      "entity_def_id": "organization"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "0a4a13f7-f557-495e-9aba-8d60a1e6ad92",
+                      "value": "Series A - Ambience Healthcare",
+                      "image_id": "f4z7rvpaxaxfhqaskgxe",
+                      "permalink": "ambience-healthcare-series-a--0a4a13f7",
+                      "entity_def_id": "funding_round"
+                    },
+                    "funding_round_money_raised": {
+                      "value": 30000000,
+                      "currency": "USD",
+                      "value_usd": 30000000
+                    }
+                  }
+                ],
+                "investments_summary": { "num_investments": 5 },
+                "investors_headline": {
+                  "num_investors": 15,
+                  "num_lead_investors": 3
+                },
+                "investors_list": [
+                  {
+                    "identifier": {
+                      "uuid": "16332f76-e891-4f83-b733-8d2114b4da67",
+                      "value": "Thrive Capital investment in Venture Round - OpenAI",
+                      "permalink": "thrive-capital-invested-in-openai-series-unknown--307f0b72--16332f76",
+                      "entity_def_id": "investment"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "307f0b72-9fd6-4529-8cd5-0dc9591123c9",
+                      "value": "Venture Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-series-unknown--307f0b72",
+                      "entity_def_id": "funding_round"
+                    },
+                    "investor_identifier": {
+                      "uuid": "85960076-7ede-7ff7-6fd3-ff261aff41ab",
+                      "value": "Thrive Capital",
+                      "image_id": "v1491920473/jevg7ycv8vw8r6qmfbhy.png",
+                      "permalink": "thrive-capital",
+                      "entity_def_id": "organization"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "28d54eef-79f2-44d9-bea4-056bebe3575d",
+                      "value": "SVA investment in Venture Round - OpenAI",
+                      "permalink": "sv-angel-invested-in-openai-series-unknown--307f0b72--28d54eef",
+                      "entity_def_id": "investment"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "307f0b72-9fd6-4529-8cd5-0dc9591123c9",
+                      "value": "Venture Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-series-unknown--307f0b72",
+                      "entity_def_id": "funding_round"
+                    },
+                    "investor_identifier": {
+                      "uuid": "902deab4-ec41-68ce-d9df-c0c959578176",
+                      "value": "SVA",
+                      "image_id": "q2by5ux9s8lahjcznfj3",
+                      "permalink": "sv-angel",
+                      "entity_def_id": "organization"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "5eb8aecc-1062-4fb7-8ca5-377ee12b1445",
+                      "value": "Andreessen Horowitz investment in Venture Round - OpenAI",
+                      "permalink": "andreessen-horowitz-invested-in-openai-series-unknown--307f0b72--5eb8aecc",
+                      "entity_def_id": "investment"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "307f0b72-9fd6-4529-8cd5-0dc9591123c9",
+                      "value": "Venture Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-series-unknown--307f0b72",
+                      "entity_def_id": "funding_round"
+                    },
+                    "investor_identifier": {
+                      "uuid": "ce91bad7-b6d8-e56e-0f45-4763c6c5ca29",
+                      "value": "Andreessen Horowitz",
+                      "image_id": "g649bjcemdeasrkayrxy",
+                      "permalink": "andreessen-horowitz",
+                      "entity_def_id": "organization"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "638e5c06-dc7f-444c-a110-6f459bb7166f",
+                      "value": "Founders Fund investment in Venture Round - OpenAI",
+                      "permalink": "founders-fund-invested-in-openai-series-unknown--307f0b72--638e5c06",
+                      "entity_def_id": "investment"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "307f0b72-9fd6-4529-8cd5-0dc9591123c9",
+                      "value": "Venture Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-series-unknown--307f0b72",
+                      "entity_def_id": "funding_round"
+                    },
+                    "investor_identifier": {
+                      "uuid": "fb2f8884-ec07-895a-48d7-d9a9d4d7175c",
+                      "value": "Founders Fund",
+                      "image_id": "v1492059725/laapckobytinuv9azdps.png",
+                      "permalink": "founders-fund",
+                      "entity_def_id": "organization"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "7a9c4940-9517-493b-9a5b-dce5eca6b17b",
+                      "value": "Alphabet investment in Venture Round - OpenAI",
+                      "permalink": "alphabet-invested-in-openai-series-unknown--307f0b72--7a9c4940",
+                      "entity_def_id": "investment"
+                    },
+                    "partner_identifiers": [
+                      {
+                        "uuid": "827f804a-4f63-40b9-8dcf-e1522b20ac41",
+                        "value": "Immediate Edge",
+                        "permalink": "immediate-edge-ac41",
+                        "entity_def_id": "person"
+                      }
+                    ],
+                    "funding_round_identifier": {
+                      "uuid": "307f0b72-9fd6-4529-8cd5-0dc9591123c9",
+                      "value": "Venture Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-series-unknown--307f0b72",
+                      "entity_def_id": "funding_round"
+                    },
+                    "investor_identifier": {
+                      "uuid": "096694c6-bcd2-a975-b95c-fab77c81d915",
+                      "value": "Alphabet",
+                      "image_id": "v1439250525/oyr10rqwvctjcfxnvapx.png",
+                      "permalink": "alphabet",
+                      "entity_def_id": "organization"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "9ce587fd-a3f8-4be3-9a74-132d88f44cc6",
+                      "value": "Wisdom Ventures investment in Venture Round - OpenAI",
+                      "permalink": "wisdom-ventures-invested-in-openai-series-unknown--307f0b72--9ce587fd",
+                      "entity_def_id": "investment"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "307f0b72-9fd6-4529-8cd5-0dc9591123c9",
+                      "value": "Venture Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-series-unknown--307f0b72",
+                      "entity_def_id": "funding_round"
+                    },
+                    "investor_identifier": {
+                      "uuid": "d4ff63a7-8d53-4c95-af34-8b6b34d01122",
+                      "value": "Wisdom Ventures",
+                      "image_id": "xzisbawi7isnyz8vy49z",
+                      "permalink": "wisdom-ventures",
+                      "entity_def_id": "organization"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "c098dbd0-06f5-45bc-bfe7-a134d68292d8",
+                      "value": "K2 Global investment in Venture Round - OpenAI",
+                      "permalink": "k2-global-invested-in-openai-series-unknown--307f0b72--c098dbd0",
+                      "entity_def_id": "investment"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "307f0b72-9fd6-4529-8cd5-0dc9591123c9",
+                      "value": "Venture Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-series-unknown--307f0b72",
+                      "entity_def_id": "funding_round"
+                    },
+                    "investor_identifier": {
+                      "uuid": "a4e8fe56-eebb-1e26-6d43-c32b125cb91f",
+                      "value": "K2 Global",
+                      "image_id": "vftu3mri2wpvpx5m8uxq",
+                      "permalink": "k2-global",
+                      "entity_def_id": "organization"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "c86ce33d-e2c4-4a3e-9a40-123468b49902",
+                      "value": "Sequoia Capital investment in Venture Round - OpenAI",
+                      "permalink": "sequoia-capital-invested-in-openai-series-unknown--307f0b72--c86ce33d",
+                      "entity_def_id": "investment"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "307f0b72-9fd6-4529-8cd5-0dc9591123c9",
+                      "value": "Venture Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-series-unknown--307f0b72",
+                      "entity_def_id": "funding_round"
+                    },
+                    "investor_identifier": {
+                      "uuid": "0c867fde-2b9a-df10-fdb9-66b74f355f91",
+                      "value": "Sequoia Capital",
+                      "image_id": "itlvyekqsbl2orcjxugx",
+                      "permalink": "sequoia-capital",
+                      "entity_def_id": "organization"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "f90902ef-4624-4895-b64c-e0518431a1f7",
+                      "value": "Tiger Global Management investment in Venture Round - OpenAI",
+                      "permalink": "tiger-global-invested-in-openai-series-unknown--307f0b72--f90902ef",
+                      "entity_def_id": "investment"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "307f0b72-9fd6-4529-8cd5-0dc9591123c9",
+                      "value": "Venture Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-series-unknown--307f0b72",
+                      "entity_def_id": "funding_round"
+                    },
+                    "investor_identifier": {
+                      "uuid": "d3184029-74d8-7e6c-717b-84ac89d0a837",
+                      "value": "Tiger Global Management",
+                      "image_id": "v1501869984/iqg002dxllmybdktw14t.png",
+                      "permalink": "tiger-global",
+                      "entity_def_id": "organization"
+                    }
+                  },
+                  {
+                    "is_lead_investor": true,
+                    "identifier": {
+                      "uuid": "d7a2ff75-6891-435f-88a0-5427d4bdd006",
+                      "value": "Microsoft investment in Corporate Round - OpenAI",
+                      "permalink": "microsoft-invested-in-openai-corporate-round--68edca00--d7a2ff75",
+                      "entity_def_id": "investment"
+                    },
+                    "funding_round_identifier": {
+                      "uuid": "68edca00-fede-469e-b3ca-03e00ed0a3eb",
+                      "value": "Corporate Round - OpenAI",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-corporate-round--68edca00",
+                      "entity_def_id": "funding_round"
+                    },
+                    "investor_identifier": {
+                      "uuid": "fd80725f-53fc-7009-9878-aeecf1e9ffbb",
+                      "value": "Microsoft",
+                      "image_id": "v1501613147/ypg7mliwmzomf9fdrkvz.png",
+                      "permalink": "microsoft",
+                      "entity_def_id": "organization"
+                    }
+                  }
+                ],
+                "investors_summary": { "num_investors": 15 },
+                "ipo_fields": {},
+                "ipo_summary": {},
+                "ipqwery_summary": {
+                  "ipqwery_num_patent_granted": 0,
+                  "ipqwery_num_trademark_registered": 2,
+                  "ipqwery_popular_trademark_class": "c42"
+                },
+                "key_employee_change_list": [
+                  {
+                    "identifier": {
+                      "uuid": "71081e27-0349-4ed0-9443-c30538f77f40",
+                      "entity_def_id": "key_employee_change"
+                    },
+                    "key_event_date": "2023-04-18",
+                    "press_reference_link": {
+                      "label": "Srinivas Narayanan joins OpenAI as VP of Engineering",
+                      "value": "https://www.techcircle.in/2023/04/19/srinivas-narayanan-joins-openai-as-vp-engineering/"
+                    }
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "31da66c4-6c9f-4a83-802e-27118a5d6f09",
+                      "entity_def_id": "key_employee_change"
+                    },
+                    "key_event_date": "2023-04-10",
+                    "press_reference_link": {
+                      "label": "OpenAI considers Japan office as CEO meets PM Fumio Kishida",
+                      "value": "https://www.thehindu.com/sci-tech/technology/openai-considers-japan-office-ceo-meets-pm-fumio-kishida/article66719740.ece"
+                    }
+                  }
+                ],
+                "layoff_list": [],
+                "news_headline": { "num_articles": 1991 },
+                "overview_company_fields": { "company_type": "for_profit" },
+                "overview_description": {
+                  "description": "OpenAI is an AI research and deployment company that conducts research and implements machine learning. The research organization is dedicated to advancing artificial intelligence safely and beneficially."
+                },
+                "overview_fields_extended": {
+                  "location_group_identifiers": [
+                    {
+                      "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+                      "value": "San Francisco Bay Area",
+                      "permalink": "san-francisco-bay-area-california",
+                      "entity_def_id": "location",
+                      "location_type": "group"
+                    },
+                    {
+                      "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+                      "value": "West Coast",
+                      "permalink": "west-coast-united-states",
+                      "entity_def_id": "location",
+                      "location_type": "group"
+                    },
+                    {
+                      "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+                      "value": "Western US",
+                      "permalink": "western-united-states",
+                      "entity_def_id": "location",
+                      "location_type": "group"
+                    }
+                  ],
+                  "aliases": ["OpenAI LP"],
+                  "founded_on": { "value": "2015-12-11", "precision": "day" },
+                  "diversity_spotlights": [
+                    {
+                      "uuid": "c3e9166d-b006-45f2-b4f9-2295d125e1ea",
+                      "value": "LGBTQ+ Founded",
+                      "permalink": "lgbtq-plus-founded",
+                      "entity_def_id": "diversity_spotlight"
+                    },
+                    {
+                      "uuid": "b824ddba-1cf7-425e-a1c0-275ded49fe29",
+                      "value": "LGBTQ+ Led",
+                      "permalink": "lgbtq-plus-led",
+                      "entity_def_id": "diversity_spotlight"
+                    }
+                  ],
+                  "founder_identifiers": [
+                    {
+                      "uuid": "886d44f1-b487-4221-a4e2-6d3549e95712",
+                      "value": "Aditya Choubey",
+                      "permalink": "aditya-choubey-5712",
+                      "entity_def_id": "person"
+                    },
+                    {
+                      "uuid": "26118c7e-7e8b-48ac-acc3-0738d811494d",
+                      "value": "Carlos Virella",
+                      "permalink": "carlos-virella-494d",
+                      "entity_def_id": "person"
+                    },
+                    {
+                      "uuid": "d3326bcc-6d25-9214-60c7-1e95c5f2f2a1",
+                      "value": "Elon Musk",
+                      "image_id": "hevy6dvk7gien0rmg37n",
+                      "permalink": "elon-musk",
+                      "entity_def_id": "person"
+                    },
+                    {
+                      "uuid": "7fd3d201-18ea-fc1d-97ed-3daac3e9b8aa",
+                      "value": "Greg Brockman",
+                      "image_id": "n2dmdip1asycpbhphssy",
+                      "permalink": "greg-brockman",
+                      "entity_def_id": "person"
+                    },
+                    {
+                      "uuid": "27e8c07e-41ef-03b3-9567-5c83a5fe2977",
+                      "value": "Ilya Sutskever",
+                      "image_id": "v1484187041/ubonzlb6bz2reoceqxsg.png",
+                      "permalink": "ilya-sutskever",
+                      "entity_def_id": "person"
+                    },
+                    {
+                      "uuid": "f18c757c-7466-4ff2-bff0-c4aa11f3950d",
+                      "value": "John Schulman",
+                      "image_id": "vka5n3zj1vdaxi9gulie",
+                      "permalink": "john-schulman-950d",
+                      "entity_def_id": "person"
+                    },
+                    {
+                      "uuid": "a324ae36-748f-4ed0-b4e9-0c7ff3573c6e",
+                      "value": "Rafsan Shahriar",
+                      "image_id": "snmm25pgoqw6yvyuwzyf",
+                      "permalink": "rafsan-shahriar",
+                      "entity_def_id": "person"
+                    },
+                    {
+                      "uuid": "f63055a5-a077-f7ad-2ace-9dbbac22a366",
+                      "value": "Sam Altman",
+                      "image_id": "eifaoe14zqiueje28oo9",
+                      "permalink": "sam-altman",
+                      "entity_def_id": "person"
+                    },
+                    {
+                      "uuid": "78995805-8abf-6e4c-8543-7877d29acbb4",
+                      "value": "Wojciech Zaremba",
+                      "image_id": "flg4p4evie7yjfwpc25a",
+                      "permalink": "wojciech-zaremba",
+                      "entity_def_id": "person"
+                    }
+                  ],
+                  "hubs": [
+                    {
+                      "uuid": "c62ac5d9-fda7-4c40-a5c2-d40253af4bc6",
+                      "value": "OpenAI Alumni Founded Companies",
+                      "image_id": "jjykwqqhsscreywea4gb",
+                      "permalink": "openai-alumni-founded-companies",
+                      "entity_def_id": "hub"
+                    }
+                  ],
+                  "operating_status": "active",
+                  "hub_tags": ["unicorn"],
+                  "last_funding_type": "series_unknown",
+                  "categories": [
+                    {
+                      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+                      "value": "Artificial Intelligence",
+                      "permalink": "artificial-intelligence",
+                      "entity_def_id": "category"
+                    },
+                    {
+                      "uuid": "5ea0cdb7-c9a6-47fc-50f8-c9b0fac04863",
+                      "value": "Machine Learning",
+                      "permalink": "machine-learning",
+                      "entity_def_id": "category"
+                    },
+                    {
+                      "uuid": "789bbbef-c46e-1532-a68d-f17da87090ea",
+                      "value": "Natural Language Processing",
+                      "permalink": "natural-language-processing",
+                      "entity_def_id": "category"
+                    },
+                    {
+                      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+                      "value": "Software",
+                      "permalink": "software",
+                      "entity_def_id": "category"
+                    }
+                  ],
+                  "legal_name": "OpenAI Inc."
+                },
+                "overview_investor_fields": {
+                  "investor_stage": ["early_stage_venture"],
+                  "investor_type": ["micro_vc"]
+                },
+                "overview_school_fields": {},
+                "overview_timeline": {
+                  "count": 2004,
+                  "entities": [
+                    {
+                      "uuid": "2e6cf798-7b32-4f4c-8f86-67addbb2e46c",
+                      "properties": {
+                        "identifier": {
+                          "entity_def_id": "press_reference",
+                          "uuid": "2e6cf798-7b32-4f4c-8f86-67addbb2e46c",
+                          "value": "Want to get a job at OpenAI? These are key skills to have, one company leader says"
+                        },
+                        "activity_properties": {
+                          "author": "Aaron Mok",
+                          "url": {
+                            "value": "https://www.businessinsider.com/job-openai-chatgpt-skills-code-passion-ai-company-leader-says-2023-8"
+                          },
+                          "publisher": "Business Insider",
+                          "thumbnail_url": "https://i.insider.com/6393740dbd05ff00188052ef?width=1000&format=jpeg&auto=webp",
+                          "title": "Want to get a job at OpenAI? These are key skills to have, one company leader says"
+                        },
+                        "activity_date": "2023-08-09",
+                        "entity_def_id": "press_reference",
+                        "activity_entities": [
+                          {
+                            "permalink": "openai",
+                            "image_id": "jjykwqqhsscreywea4gb",
+                            "uuid": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                            "entity_def_id": "organization",
+                            "value": "OpenAI"
+                          }
+                        ],
+                        "datetime": "2023-08-09T00:00:00.000Z",
+                        "time": 1691539200000,
+                        "date": "Wed, 09 Aug 2023 00:00:00 GMT"
+                      }
+                    },
+                    {
+                      "uuid": "b41ea6d3-278f-4fcd-8f97-5472ee16cf2e",
+                      "properties": {
+                        "identifier": {
+                          "entity_def_id": "press_reference",
+                          "uuid": "b41ea6d3-278f-4fcd-8f97-5472ee16cf2e",
+                          "value": "OpenAI Shoots To No. 1 Spot On Private Cloud Startup Ranking, Underscoring AI\u2019s Sudden Ascendency"
+                        },
+                        "activity_properties": {
+                          "author": "Gen\u00e9 Teare",
+                          "url": {
+                            "value": "https://news.crunchbase.com/cloud/bessemer-2023-private-cloud-startup-ranking-openai-anthropic/"
+                          },
+                          "publisher": "Crunchbase News",
+                          "thumbnail_url": "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg",
+                          "title": "OpenAI Shoots To No. 1 Spot On Private Cloud Startup Ranking, Underscoring AI\u2019s Sudden Ascendency"
+                        },
+                        "activity_date": "2023-08-09",
+                        "entity_def_id": "press_reference",
+                        "activity_entities": [
+                          {
+                            "permalink": "openai",
+                            "image_id": "jjykwqqhsscreywea4gb",
+                            "uuid": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                            "entity_def_id": "organization",
+                            "value": "OpenAI"
+                          }
+                        ],
+                        "datetime": "2023-08-09T00:00:00.000Z",
+                        "time": 1691539200000,
+                        "date": "Wed, 09 Aug 2023 00:00:00 GMT"
+                      }
+                    },
+                    {
+                      "uuid": "fad730d2-a5cc-439f-983e-fe0c284e548d",
+                      "properties": {
+                        "identifier": {
+                          "entity_def_id": "press_reference",
+                          "uuid": "fad730d2-a5cc-439f-983e-fe0c284e548d",
+                          "value": "OpenAI\u2019s web scraping GPTBot is under attack \u2013 here\u2019s why"
+                        },
+                        "activity_properties": {
+                          "author": "Jacob Siegal",
+                          "url": {
+                            "value": "https://bgr.com/tech/openais-web-scraping-gptbot-is-under-attack-heres-why/"
+                          },
+                          "publisher": "BGR Boy Genius Report",
+                          "thumbnail_url": "https://bgr.com/wp-content/uploads/2023/03/gpt-4.jpg?resize=1020%2C574&quality=82",
+                          "title": "OpenAI\u2019s web scraping GPTBot is under attack \u2013 here\u2019s why"
+                        },
+                        "activity_date": "2023-08-09",
+                        "entity_def_id": "press_reference",
+                        "activity_entities": [
+                          {
+                            "permalink": "openai",
+                            "image_id": "jjykwqqhsscreywea4gb",
+                            "uuid": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                            "entity_def_id": "organization",
+                            "value": "OpenAI"
+                          }
+                        ],
+                        "datetime": "2023-08-09T00:00:00.000Z",
+                        "time": 1691539200000,
+                        "date": "Wed, 09 Aug 2023 00:00:00 GMT"
+                      }
+                    },
+                    {
+                      "uuid": "3b3fefa0-6672-40bb-b297-f592615e6a3e",
+                      "properties": {
+                        "identifier": {
+                          "entity_def_id": "press_reference",
+                          "uuid": "3b3fefa0-6672-40bb-b297-f592615e6a3e",
+                          "value": "OpenAI CEO Sam Altman\u2019s latest venture under fire for privacy concerns"
+                        },
+                        "activity_properties": {
+                          "author": "Ian Krietzberg",
+                          "url": {
+                            "value": "https://www.thenewstribune.com/news/business/article278072482.html"
+                          },
+                          "publisher": "The News Tribune",
+                          "thumbnail_url": "https://www.mcclatchy-wires.com/incoming/hcurno/picture278072192/alternates/LANDSCAPE_1140/340053f4-c2a5-4111-b807-41049c2681fc",
+                          "title": "OpenAI CEO Sam Altman\u2019s latest venture under fire for privacy concerns"
+                        },
+                        "activity_date": "2023-08-08",
+                        "entity_def_id": "press_reference",
+                        "activity_entities": [
+                          {
+                            "permalink": "openai",
+                            "image_id": "jjykwqqhsscreywea4gb",
+                            "uuid": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                            "entity_def_id": "organization",
+                            "value": "OpenAI"
+                          }
+                        ],
+                        "datetime": "2023-08-08T00:00:00.000Z",
+                        "time": 1691452800000,
+                        "date": "Tue, 08 Aug 2023 00:00:00 GMT"
+                      }
+                    },
+                    {
+                      "uuid": "4ef80ab7-5a94-4d70-b7ea-0ad38ba129fc",
+                      "properties": {
+                        "identifier": {
+                          "entity_def_id": "press_reference",
+                          "uuid": "4ef80ab7-5a94-4d70-b7ea-0ad38ba129fc",
+                          "value": "Surprising Admissions by OpenAI Leaders Made in Recent Interviews"
+                        },
+                        "activity_properties": {
+                          "publisher": "JD Supra",
+                          "title": "Surprising Admissions by OpenAI Leaders Made in Recent Interviews",
+                          "thumbnail_url": "https://www.jdsupra.com/img/client_headers/EDRM/Header.jpg",
+                          "url": {
+                            "value": "https://www.jdsupra.com/legalnews/surprising-admissions-by-openai-leaders-4003469/"
+                          }
+                        },
+                        "activity_date": "2023-08-08",
+                        "entity_def_id": "press_reference",
+                        "activity_entities": [
+                          {
+                            "permalink": "openai",
+                            "image_id": "jjykwqqhsscreywea4gb",
+                            "uuid": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                            "entity_def_id": "organization",
+                            "value": "OpenAI"
+                          }
+                        ],
+                        "datetime": "2023-08-08T00:00:00.000Z",
+                        "time": 1691452800000,
+                        "date": "Tue, 08 Aug 2023 00:00:00 GMT"
+                      }
+                    },
+                    {
+                      "uuid": "7edda7f1-be3c-406f-a078-180f457b8e9e",
+                      "properties": {
+                        "identifier": {
+                          "entity_def_id": "press_reference",
+                          "uuid": "7edda7f1-be3c-406f-a078-180f457b8e9e",
+                          "value": "Microsoft Azure expands availability of OpenAI GPT-4 and GPT-35-Turbo models to more regions"
+                        },
+                        "activity_properties": {
+                          "author": "Devesh Beri",
+                          "url": {
+                            "value": "https://www.onmsft.com/news/microsoft-azure-expands-availability-of-openai-gpt-4-and-gpt-35-turbo-models-to-more-regions/"
+                          },
+                          "publisher": "WinBeta",
+                          "thumbnail_url": "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Microsoft-Adds-Dynamic-JSON-To-Azure-Core-Library-For-.NET_.png?strip=all&lossy=1&sharp=1&ssl=1",
+                          "title": "Microsoft Azure expands availability of OpenAI GPT-4 and GPT-35-Turbo models to more regions"
+                        },
+                        "activity_date": "2023-08-08",
+                        "entity_def_id": "press_reference",
+                        "activity_entities": [
+                          {
+                            "permalink": "openai",
+                            "image_id": "jjykwqqhsscreywea4gb",
+                            "uuid": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                            "entity_def_id": "organization",
+                            "value": "OpenAI"
+                          }
+                        ],
+                        "datetime": "2023-08-08T00:00:00.000Z",
+                        "time": 1691452800000,
+                        "date": "Tue, 08 Aug 2023 00:00:00 GMT"
+                      }
+                    },
+                    {
+                      "uuid": "9b48e726-dc88-4bc3-88cb-98e6073f3127",
+                      "properties": {
+                        "identifier": {
+                          "entity_def_id": "press_reference",
+                          "uuid": "9b48e726-dc88-4bc3-88cb-98e6073f3127",
+                          "value": "OpenAI launches web crawler 'GPTBot' amid plans for next model: GPT-5"
+                        },
+                        "activity_properties": {
+                          "author": "Brayden Lindrea",
+                          "url": {
+                            "value": "https://cointelegraph.com/news/open-ai-launch-gptbot-web-crawler-amid-gpt5-trademark"
+                          },
+                          "publisher": "Coin Telegraph",
+                          "thumbnail_url": "https://images.cointelegraph.com/images/960_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMjdjNzUyNWEtMTk4Mi00YWFkLWE5N2EtMjZiODEwMDcxNmNiLmpwZw==.jpg",
+                          "title": "OpenAI launches web crawler 'GPTBot' amid plans for next model: GPT-5"
+                        },
+                        "activity_date": "2023-08-08",
+                        "entity_def_id": "press_reference",
+                        "activity_entities": [
+                          {
+                            "permalink": "openai",
+                            "image_id": "jjykwqqhsscreywea4gb",
+                            "uuid": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                            "entity_def_id": "organization",
+                            "value": "OpenAI"
+                          }
+                        ],
+                        "datetime": "2023-08-08T00:00:00.000Z",
+                        "time": 1691452800000,
+                        "date": "Tue, 08 Aug 2023 00:00:00 GMT"
+                      }
+                    },
+                    {
+                      "uuid": "b191ab22-ef9f-4bd7-b194-00476a4364d7",
+                      "properties": {
+                        "identifier": {
+                          "entity_def_id": "press_reference",
+                          "uuid": "b191ab22-ef9f-4bd7-b194-00476a4364d7",
+                          "value": "OpenAI just admitted it has a bot that crawls the web to collect AI training data. If you don't block GPTbot, that's self-sabotage."
+                        },
+                        "activity_properties": {
+                          "author": "Alistair Barr",
+                          "url": {
+                            "value": "https://www.businessinsider.com/openai-gptbot-web-crawler-content-creators-ai-bots-2023-8"
+                          },
+                          "publisher": "Business Insider",
+                          "thumbnail_url": "https://i.insider.com/64ca71b1ce6977001984687b?width=2000&format=jpeg&auto=webp",
+                          "title": "OpenAI just admitted it has a bot that crawls the web to collect AI training data. If you don't block GPTbot, that's self-sabotage."
+                        },
+                        "activity_date": "2023-08-08",
+                        "entity_def_id": "press_reference",
+                        "activity_entities": [
+                          {
+                            "permalink": "openai",
+                            "image_id": "jjykwqqhsscreywea4gb",
+                            "uuid": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                            "entity_def_id": "organization",
+                            "value": "OpenAI"
+                          }
+                        ],
+                        "datetime": "2023-08-08T00:00:00.000Z",
+                        "time": 1691452800000,
+                        "date": "Tue, 08 Aug 2023 00:00:00 GMT"
+                      }
+                    },
+                    {
+                      "uuid": "fede45a3-3d39-43cb-9217-835a38cbaeb3",
+                      "properties": {
+                        "identifier": {
+                          "entity_def_id": "press_reference",
+                          "uuid": "fede45a3-3d39-43cb-9217-835a38cbaeb3",
+                          "value": "OpenAI to Unleash New Web Crawler to Devour More of the Open Web"
+                        },
+                        "activity_properties": {
+                          "author": "Jose Antonio Lanz",
+                          "publisher": "Decrypt",
+                          "title": "OpenAI to Unleash New Web Crawler to Devour More of the Open Web",
+                          "url": {
+                            "value": "https://decrypt.co/151662/chatgpt-web-crawler-openai-data-scraper-gptbot-gpt-5"
+                          }
+                        },
+                        "activity_date": "2023-08-08",
+                        "entity_def_id": "press_reference",
+                        "activity_entities": [
+                          {
+                            "permalink": "openai",
+                            "image_id": "jjykwqqhsscreywea4gb",
+                            "uuid": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                            "entity_def_id": "organization",
+                            "value": "OpenAI"
+                          }
+                        ],
+                        "datetime": "2023-08-08T00:00:00.000Z",
+                        "time": 1691452800000,
+                        "date": "Tue, 08 Aug 2023 00:00:00 GMT"
+                      }
+                    },
+                    {
+                      "uuid": "10cfd985-56b3-4779-983c-ea2441e93758",
+                      "properties": {
+                        "identifier": {
+                          "entity_def_id": "press_reference",
+                          "uuid": "10cfd985-56b3-4779-983c-ea2441e93758",
+                          "value": "Twilio integrates with OpenAI"
+                        },
+                        "activity_properties": {
+                          "publisher": "Paypers",
+                          "title": "Twilio integrates with OpenAI",
+                          "thumbnail_url": "https://thepaypers.com/Images/SocialMedia2022/chatbot-artificial-intelligence.png",
+                          "url": {
+                            "value": "https://thepaypers.com/ecommerce/twilio-integrates-with-openai--1263771"
+                          }
+                        },
+                        "activity_date": "2023-08-07",
+                        "entity_def_id": "press_reference",
+                        "activity_entities": [
+                          {
+                            "permalink": "openai",
+                            "image_id": "jjykwqqhsscreywea4gb",
+                            "uuid": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                            "entity_def_id": "organization",
+                            "value": "OpenAI"
+                          }
+                        ],
+                        "datetime": "2023-08-07T00:00:00.000Z",
+                        "time": 1691366400000,
+                        "date": "Mon, 07 Aug 2023 00:00:00 GMT"
+                      }
+                    }
+                  ]
+                },
+                "people_highlights": {
+                  "num_contacts": 144,
+                  "num_current_advisor_positions": 7,
+                  "num_current_positions": 31
+                },
+                "privco_summary_public": {},
+                "process": "livesearch",
+                "semrush_attribution": { "semrush_last_updated": "2023-07-10" },
+                "semrush_location_list": [
+                  {
+                    "identifier": {
+                      "uuid": "4591b54c-337d-4b77-a895-b7657a8ad497"
+                    },
+                    "visits_mom_pct": -0.139997220004197,
+                    "uuid": "4591b54c-337d-4b77-a895-b7657a8ad497",
+                    "rank": 50,
+                    "rank_mom_pct": -0.0196078431372549,
+                    "location_identifiers": [
+                      {
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "value": "United States",
+                        "permalink": "united-states",
+                        "entity_def_id": "location"
+                      },
+                      {
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "value": "North America",
+                        "permalink": "north-america",
+                        "entity_def_id": "location"
+                      }
+                    ],
+                    "visits_pct": 0.134883702764501
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "334f3789-c7d5-4e8a-9347-ca6bd1fc75ee"
+                    },
+                    "visits_mom_pct": 0.453076563818775,
+                    "uuid": "334f3789-c7d5-4e8a-9347-ca6bd1fc75ee",
+                    "rank": 32,
+                    "rank_mom_pct": -0.111111111111111,
+                    "location_identifiers": [
+                      {
+                        "uuid": "8eb58540-ecb9-b5bb-fae5-3ff82665c717",
+                        "value": "Brazil",
+                        "permalink": "brazil",
+                        "entity_def_id": "location"
+                      },
+                      {
+                        "uuid": "dc5ba49f-731c-c510-b669-6a1641aee660",
+                        "value": "South America",
+                        "permalink": "south-america",
+                        "entity_def_id": "location"
+                      }
+                    ],
+                    "visits_pct": 0.0669541390286505
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "8593e080-5ae0-4735-90fb-e5a0e0cdd507"
+                    },
+                    "visits_mom_pct": -0.0101765228454232,
+                    "uuid": "8593e080-5ae0-4735-90fb-e5a0e0cdd507",
+                    "rank": 33,
+                    "rank_mom_pct": 0.03125,
+                    "location_identifiers": [
+                      {
+                        "uuid": "0cf597c8-722d-d3d4-e77f-a203ed0388f1",
+                        "value": "Philippines",
+                        "permalink": "philippines",
+                        "entity_def_id": "location"
+                      },
+                      {
+                        "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+                        "value": "Asia",
+                        "permalink": "asia",
+                        "entity_def_id": "location"
+                      }
+                    ],
+                    "visits_pct": 0.0529321193981624
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "dab3d2b0-691a-4186-bd89-6e2a040f1ecb"
+                    },
+                    "visits_mom_pct": 0.0576403965948188,
+                    "uuid": "dab3d2b0-691a-4186-bd89-6e2a040f1ecb",
+                    "rank": 35,
+                    "rank_mom_pct": -0.125,
+                    "location_identifiers": [
+                      {
+                        "uuid": "6085b4bf-b18a-1763-a04e-fdde3f6aba94",
+                        "value": "Germany",
+                        "permalink": "germany",
+                        "entity_def_id": "location"
+                      },
+                      {
+                        "uuid": "6106f5dc-823e-5da8-40d7-51612c0b2c4e",
+                        "value": "Europe",
+                        "permalink": "europe",
+                        "entity_def_id": "location"
+                      }
+                    ],
+                    "visits_pct": 0.0398565208416444
+                  },
+                  {
+                    "identifier": {
+                      "uuid": "3651ed07-aefa-41e4-b682-e6fc1d85ef99"
+                    },
+                    "visits_mom_pct": 0.312202732817319,
+                    "uuid": "3651ed07-aefa-41e4-b682-e6fc1d85ef99",
+                    "rank": 118,
+                    "rank_mom_pct": -0.186206896551724,
+                    "location_identifiers": [
+                      {
+                        "uuid": "e2781ac6-611b-376a-fc7d-ddec670c3d94",
+                        "value": "Japan",
+                        "permalink": "japan",
+                        "entity_def_id": "location"
+                      },
+                      {
+                        "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+                        "value": "Asia",
+                        "permalink": "asia",
+                        "entity_def_id": "location"
+                      }
+                    ],
+                    "visits_pct": 0.0335637167811217
+                  }
+                ],
+                "semrush_rank_headline": {
+                  "semrush_visits_latest_month": 2046019529,
+                  "semrush_visits_mom_pct": -0.0855927692784442
+                },
+                "semrush_summary": {
+                  "semrush_global_rank": 29,
+                  "semrush_visits_latest_month": 2046019529
+                },
+                "short_description": "OpenAI is an AI research and deployment company that conducts research and implements machine learning.",
+                "siftery_summary": { "siftery_num_products": 26 },
+                "social_fields": {
+                  "facebook": {
+                    "value": "https://www.facebook.com/openai.research"
+                  },
+                  "linkedin": {
+                    "value": "https://www.linkedin.com/company/openai"
+                  },
+                  "twitter": { "value": "https://www.twitter.com/OpenAI" }
+                },
+                "sub_organizations_headline": {},
+                "sub_organizations_image_list": [],
+                "sub_organizations_summary": {},
+                "technology_highlights": {
+                  "semrush_visits_latest_month": 2046019529,
+                  "semrush_visits_mom_pct": -0.0855927692784442,
+                  "siftery_num_products": 26,
+                  "apptopia_total_downloads": 30,
+                  "builtwith_num_technologies_used": 56
+                },
+                "title": "OpenAI",
+                "trading_view": {},
+                "uuid": "cf2c678c-b81a-80c3-10d1-9c5e76448e51",
+                "value": "OpenAI",
+                "date": "2023-08-11T15:21:29Z"
+              }
+            ],
+            "date": "2020-11-18",
+            "startDate": "2020-11-18"
+          }
+        ]
+      }
+    }
+  }
+}
